@@ -1,0 +1,8 @@
+<svg width="44" height="44" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Universidad Internacional SEK">
+  <rect x="1" y="1" width="42" height="42" rx="11" fill="#004896"/>
+  <rect x="1" y="1" width="42" height="42" rx="11" fill="none" stroke="#F0B700" stroke-width="1.4" opacity="0.55"/>
+  <path d="M22 9L38 15.5L22 22L6 15.5L22 9Z" fill="#F0B700"/>
+  <path d="M12.2 18.2V25.4C12.2 28.6 15.7 31.1 22 31.1C28.3 31.1 31.8 28.6 31.8 25.4V18.2L22 22L12.2 18.2Z" fill="#FFFFFF"/>
+  <path d="M35 17V25" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round"/>
+  <circle cx="35" cy="27.1" r="1.35" fill="#FFFFFF"/>
+</svg>

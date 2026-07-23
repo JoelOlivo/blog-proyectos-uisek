@@ -1,0 +1,275 @@
+[
+  {
+    "id": "sensor-riego-inteligente",
+    "titulo": "Sistema de riego inteligente con sensores IoT",
+    "resumen": "Una red de sensores de bajo costo que decide cuándo y cuánto regar cada cultivo, reduciendo el consumo de agua en zonas rurales de la Sierra.",
+    "categoria": "tecnologia",
+    "carrera": "Ingeniería en Tecnologías de la Información",
+    "autores": ["María José Andrade", "Pedro Salazar"],
+    "docente": "Ing. Carla Robayo, MSc.",
+    "fecha": "2026-05-14",
+    "destacado": false,
+    "portada": "assets/img/cover-tecnologia.svg",
+    "descripcion": [
+      "El proyecto surge de la necesidad de optimizar el uso de agua en cultivos de la Sierra ecuatoriana, donde el riego manual genera pérdidas de hasta un 40% del recurso hídrico.",
+      "Se diseñó una red de sensores de humedad y temperatura conectados a un microcontrolador ESP32, que envía datos en tiempo real a un panel web donde el agricultor puede monitorear el estado del suelo y activar el riego automático desde su celular.",
+      "Las pruebas de campo, realizadas durante ocho semanas en un invernadero piloto, mostraron una reducción del 27% en el consumo de agua sin afectar el rendimiento del cultivo."
+    ],
+    "galeria": [
+      { "src": "assets/img/gallery-01.svg", "alt": "Prototipo del sensor de humedad instalado en campo" },
+      { "src": "assets/img/gallery-03.svg", "alt": "Diagrama esquemático del circuito" },
+      { "src": "assets/img/gallery-04.svg", "alt": "Panel de monitoreo web" }
+    ],
+    "videos": [
+      { "titulo": "Demostración del sistema en campo", "url": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
+    ],
+    "documentos": [
+      { "nombre": "Informe técnico completo", "archivo": "assets/docs/informe-riego-inteligente.pdf", "tipo": "PDF", "tamano": "3.2 MB" },
+      { "nombre": "Esquemas eléctricos", "archivo": "assets/docs/esquemas-riego.pdf", "tipo": "PDF", "tamano": "1.1 MB" }
+    ],
+    "enlaces": [
+      { "texto": "Repositorio del código en GitHub", "url": "https://github.com" },
+      { "texto": "Artículo publicado en revista estudiantil", "url": "https://uisek.edu.ec" }
+    ],
+    "tags": ["IoT", "Agricultura", "Sostenibilidad", "ESP32"]
+  },
+  {
+    "id": "puente-modular-fibra",
+    "titulo": "Puente peatonal modular en fibra de carbono",
+    "resumen": "Un diseño estructural ligero y desmontable pensado para reconectar comunidades tras desastres naturales.",
+    "categoria": "ingenieria",
+    "carrera": "Ingeniería Civil",
+    "autores": ["Daniel Chuquimarca"],
+    "docente": "Ing. Fernando Ortiz, PhD.",
+    "fecha": "2026-04-02",
+    "destacado": false,
+    "portada": "assets/img/cover-ingenieria.svg",
+    "descripcion": [
+      "Tras los deslizamientos que aislaron comunidades rurales, este proyecto propone un sistema de puente peatonal modular, ligero y de rápido montaje, construido con perfiles de fibra de carbono reforzada.",
+      "El diseño permite ensamblar tramos de 4 metros sin soldadura ni maquinaria pesada, reduciendo el tiempo de instalación de semanas a menos de 48 horas.",
+      "Se realizaron simulaciones estructurales en elementos finitos y un modelo a escala 1:10 fue sometido a pruebas de carga en el laboratorio de estructuras de la universidad."
+    ],
+    "galeria": [
+      { "src": "assets/img/gallery-02.svg", "alt": "Modelo a escala del puente modular" },
+      { "src": "assets/img/gallery-03.svg", "alt": "Planos estructurales" }
+    ],
+    "videos": [],
+    "documentos": [
+      { "nombre": "Memoria de cálculo estructural", "archivo": "assets/docs/memoria-puente.pdf", "tipo": "PDF", "tamano": "4.8 MB" }
+    ],
+    "enlaces": [],
+    "tags": ["Estructuras", "Materiales compuestos", "Gestión de riesgos"]
+  },
+  {
+    "id": "identidad-mercados-quito",
+    "titulo": "Identidad visual para mercados tradicionales de Quito",
+    "resumen": "Un sistema de señalética y marca colectiva que rescata la identidad gráfica de los mercados populares del Centro Histórico.",
+    "categoria": "diseno",
+    "carrera": "Diseño Gráfico",
+    "autores": ["Camila Herrera", "Josué Tapia"],
+    "docente": "Dis. Andrea Cevallos, MSc.",
+    "fecha": "2026-03-20",
+    "destacado": false,
+    "portada": "assets/img/cover-diseno.svg",
+    "descripcion": [
+      "El proyecto documenta la señalética espontánea de tres mercados del Centro Histórico de Quito y propone un sistema de identidad visual que respeta y potencia esa expresión popular.",
+      "Se desarrollaron una tipografía inspirada en los rótulos pintados a mano, una paleta de color derivada de los productos locales y un manual de aplicaciones para toldos, delantales y puntos de venta.",
+      "El sistema fue validado con comerciantes del Mercado Central mediante entrevistas y prototipos de baja fidelidad."
+    ],
+    "galeria": [
+      { "src": "assets/img/gallery-04.svg", "alt": "Sistema tipográfico aplicado a señalética" },
+      { "src": "assets/img/gallery-01.svg", "alt": "Prototipos de toldos" }
+    ],
+    "videos": [
+      { "titulo": "Proceso de investigación en campo", "url": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
+    ],
+    "documentos": [
+      { "nombre": "Manual de identidad visual", "archivo": "assets/docs/manual-mercados.pdf", "tipo": "PDF", "tamano": "6.5 MB" }
+    ],
+    "enlaces": [
+      { "texto": "Galería completa en Behance", "url": "https://behance.net" }
+    ],
+    "tags": ["Branding", "Diseño social", "Tipografía"]
+  },
+  {
+    "id": "alfabetizacion-digital-adultos",
+    "titulo": "Alfabetización digital para adultos mayores",
+    "resumen": "Un programa comunitario y una app simplificada que acercan el uso seguro de internet a personas mayores de 60 años.",
+    "categoria": "sociales",
+    "carrera": "Psicología",
+    "autores": ["Nicolás Vega", "Ana Belén Ríos", "Sofía Molina"],
+    "docente": "Psc. Lucía Fernández, MSc.",
+    "fecha": "2026-02-11",
+    "destacado": false,
+    "portada": "assets/img/cover-sociales.svg",
+    "descripcion": [
+      "El envejecimiento poblacional y la creciente digitalización de trámites en Ecuador dejan atrás a miles de adultos mayores. Este proyecto combina talleres presenciales con una aplicación de interfaz simplificada.",
+      "Durante doce semanas se trabajó con un grupo de 35 personas mayores de 60 años en el uso de banca móvil, videollamadas y prevención de fraudes digitales.",
+      "El 82% de los participantes reportó sentirse más seguro usando su celular al finalizar el programa, según la escala de autoeficacia digital aplicada."
+    ],
+    "galeria": [
+      { "src": "assets/img/gallery-05.svg", "alt": "Taller con adultos mayores" },
+      { "src": "assets/img/gallery-04.svg", "alt": "Interfaz simplificada de la aplicación" }
+    ],
+    "videos": [],
+    "documentos": [
+      { "nombre": "Resultados del estudio", "archivo": "assets/docs/estudio-alfabetizacion.pdf", "tipo": "PDF", "tamano": "2.4 MB" }
+    ],
+    "enlaces": [],
+    "tags": ["Inclusión", "Tecnología social", "Investigación aplicada"]
+  },
+  {
+    "id": "compostaje-urbano-modular",
+    "titulo": "Módulos de compostaje urbano para condominios",
+    "resumen": "Unidades compactas de compostaje diseñadas para reducir hasta un 60% de los residuos orgánicos en edificios residenciales.",
+    "categoria": "sostenibilidad",
+    "carrera": "Ingeniería Ambiental",
+    "autores": ["Emilia Suárez"],
+    "docente": "Ing. Roberto Naranjo, PhD.",
+    "fecha": "2026-01-28",
+    "destacado": true,
+    "portada": "assets/img/cover-sostenibilidad.svg",
+    "descripcion": [
+      "Quito genera más de 2.000 toneladas diarias de residuos, de las cuales cerca del 60% son orgánicos y terminan en rellenos sanitarios. Este proyecto propone módulos de compostaje pensados para espacios comunes de condominios.",
+      "El diseño incorpora un sistema de aireación pasiva y un biofiltro de carbón activado que elimina los olores, permitiendo su instalación en terrazas y patios interiores.",
+      "El piloto instalado en un condominio de 40 familias procesó 180 kg de residuos orgánicos en dos meses, generando abono para las áreas verdes del conjunto."
+    ],
+    "galeria": [
+      { "src": "assets/img/gallery-02.svg", "alt": "Módulo de compostaje instalado" },
+      { "src": "assets/img/gallery-03.svg", "alt": "Corte técnico del sistema de aireación" }
+    ],
+    "videos": [
+      { "titulo": "Recorrido por el piloto instalado", "url": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
+    ],
+    "documentos": [
+      { "nombre": "Ficha técnica del módulo", "archivo": "assets/docs/ficha-compostaje.pdf", "tipo": "PDF", "tamano": "1.8 MB" }
+    ],
+    "enlaces": [
+      { "texto": "Sitio del proyecto", "url": "https://uisek.edu.ec" }
+    ],
+    "tags": ["Economía circular", "Residuos", "Diseño sostenible"]
+  },
+  {
+    "id": "biosensor-glucosa-saliva",
+    "titulo": "Biosensor no invasivo de glucosa en saliva",
+    "resumen": "Un dispositivo experimental que estima el nivel de glucosa a partir de una muestra de saliva, sin necesidad de pinchazos.",
+    "categoria": "salud",
+    "carrera": "Biotecnología",
+    "autores": ["Iván Cárdenas", "Gabriela Puma"],
+    "docente": "Dra. Mónica Salgado, PhD.",
+    "fecha": "2025-12-09",
+    "destacado": false,
+    "portada": "assets/img/cover-salud.svg",
+    "descripcion": [
+      "El monitoreo constante de glucosa mediante pinchazos genera dolor y baja adherencia en pacientes con diabetes tipo 2. Este proyecto explora la saliva como fluido alternativo de medición.",
+      "Se desarrolló un biosensor electroquímico de bajo costo capaz de correlacionar la concentración de glucosa salival con los niveles en sangre, validado frente a un glucómetro comercial.",
+      "Los resultados preliminares muestran una correlación de 0.81 entre ambas mediciones, lo que abre la puerta a futuras validaciones clínicas a mayor escala."
+    ],
+    "galeria": [
+      { "src": "assets/img/gallery-05.svg", "alt": "Prototipo del biosensor en laboratorio" }
+    ],
+    "videos": [],
+    "documentos": [
+      { "nombre": "Paper preliminar", "archivo": "assets/docs/paper-biosensor.pdf", "tipo": "PDF", "tamano": "2.9 MB" }
+    ],
+    "enlaces": [],
+    "tags": ["Biotecnología", "Salud digital", "Investigación"]
+  },
+  {
+    "id": "app-movilidad-ciclistas",
+    "titulo": "App de rutas seguras para ciclistas urbanos",
+    "resumen": "Una aplicación móvil que sugiere rutas en bicicleta priorizando ciclovías, iluminación y reportes de la comunidad.",
+    "categoria": "tecnologia",
+    "carrera": "Ingeniería en Software",
+    "autores": ["Kevin Yugsi", "Michelle Ortiz"],
+    "docente": "Ing. Diego Paredes, MSc.",
+    "fecha": "2025-11-15",
+    "destacado": false,
+    "portada": "assets/img/cover-tecnologia.svg",
+    "descripcion": [
+      "Los ciclistas urbanos de Quito enfrentan rutas poco seguras debido a la falta de iluminación y tramos sin ciclovía. La aplicación combina datos abiertos del Municipio con reportes en tiempo real de la comunidad ciclista.",
+      "El algoritmo de ruteo pondera variables como pendiente, iluminación nocturna y densidad de tráfico para sugerir el trayecto más seguro, no necesariamente el más corto.",
+      "En su fase piloto, la app fue probada por 60 ciclistas del colectivo Biciacción durante un mes, registrando más de 400 rutas completadas."
+    ],
+    "galeria": [
+      { "src": "assets/img/gallery-04.svg", "alt": "Interfaz de la aplicación móvil" },
+      { "src": "assets/img/gallery-01.svg", "alt": "Mapa de calor de rutas seguras" }
+    ],
+    "videos": [
+      { "titulo": "Recorrido de la app", "url": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
+    ],
+    "documentos": [],
+    "enlaces": [
+      { "texto": "Descargar APK de prueba", "url": "https://uisek.edu.ec" },
+      { "texto": "Repositorio en GitHub", "url": "https://github.com" }
+    ],
+    "tags": ["Movilidad", "Datos abiertos", "UX"]
+  },
+  {
+    "id": "vivienda-emergencia-bambu",
+    "titulo": "Vivienda de emergencia en guadúa y bambú",
+    "resumen": "Un prototipo de vivienda temporal de bajo costo, montable en menos de un día para zonas afectadas por desastres.",
+    "categoria": "ingenieria",
+    "carrera": "Arquitectura",
+    "autores": ["Paola Jácome"],
+    "docente": "Arq. Xavier Montenegro, MSc.",
+    "fecha": "2025-10-30",
+    "destacado": false,
+    "portada": "assets/img/cover-ingenieria.svg",
+    "descripcion": [
+      "Ecuador es un país de alta vulnerabilidad sísmica. Este proyecto propone una unidad de vivienda de emergencia construida con guadúa, un material local, renovable y de buen comportamiento estructural ante sismos.",
+      "El sistema constructivo usa uniones prefabricadas que permiten el montaje sin mano de obra especializada, reduciendo el costo total a menos de 900 dólares por unidad.",
+      "Un prototipo a escala real fue construido en el patio de la Facultad y sometido a pruebas de estabilidad ante viento y carga vertical."
+    ],
+    "galeria": [
+      { "src": "assets/img/gallery-02.svg", "alt": "Prototipo de vivienda construido" },
+      { "src": "assets/img/gallery-03.svg", "alt": "Detalle constructivo de uniones" }
+    ],
+    "videos": [],
+    "documentos": [
+      { "nombre": "Planos constructivos", "archivo": "assets/docs/planos-vivienda-bambu.pdf", "tipo": "PDF", "tamano": "5.1 MB" }
+    ],
+    "enlaces": [],
+    "tags": ["Arquitectura de emergencia", "Materiales locales", "Gestión de riesgos"]
+  },
+  {
+    "id": "excel-para-todos",
+    "titulo": "Excel para pequeños negocios",
+    "resumen": "Lorem ipsum dolor sit amet consectetur adipiscing elit vel convallis, turpis nisl habitasse hac curabitur morbi etiam lacus, nullam elementum ut senectus nisi fringilla et mauris.",
+    "categoria": "negocios",
+    "carrera": "Administración",
+    "autores": ["Cristobal Charvet", "David Revelo", "Leonardo Rodríguez", "Iván Ortega"],
+    "docente": "Sandre Elizabeth Lopez Vásquez",
+    "fecha": "2026-07-22",
+    "destacado": true,
+    "portada": "assets/img/cover-tecnologia.svg",
+    "descripcion": [
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit vel convallis, turpis nisl habitasse hac curabitur morbi etiam lacus, nullam elementum ut senectus nisi fringilla et mauris.",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit vel convallis, turpis nisl habitasse hac curabitur morbi etiam lacus, nullam elementum ut senectus nisi fringilla et mauris.",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit vel convallis, turpis nisl habitasse hac curabitur morbi etiam lacus, nullam elementum ut senectus nisi fringilla et mauris."
+    ],
+    "galeria": [
+      { "src": "assets/img/gallery-01.svg", "alt": "img1" },
+      { "src": "assets/img/gallery-03.svg", "alt": "img2" },
+      { "src": "assets/img/gallery-04.svg", "alt": "img3" }
+    ],
+    "videos": [
+      {
+        "titulo": "Demostración del proyecto",
+        "url": "assets/videos/excel-para-todos/Capacitación Excel Para Todos2.mp4",
+        "poster": "assets/img/gallery-01.svg"
+      }
+    ],
+    "documentos": [
+      { "nombre": "Ejercicio Básico Empanadas", "archivo": "assets/docs/excel-para-todos/Ejercicio-Basico-Empanadas.xlsx", "tipo": "XLSX", "tamano": "3.2 MB" },
+      { "nombre": "Excel Para Pequeños Negocios", "archivo": "assets/docs/excel-para-todos/EXCEL-PARA-PEQUENOS-NEGOCIOS-V2.pdf", "tipo": "PDF", "tamano": "1.1 MB" },
+      { "nombre": "Lectura Recomendada", "archivo": "assets/docs/excel-para-todos/Lectura-Recomendada.pptx", "tipo": "PPTX", "tamano": "1.1 MB" },
+      { "nombre": "Actividades Interactivas", "archivo": "assets/docs/excel-para-todos/Tarea-2-Actividades-Interactivas-y-Lectura-corregida.pdf", "tipo": "PDF", "tamano": "1.1 MB" }
+    ],
+    "enlaces": [
+      { "texto": "Red social", "url": "https://github.com" },
+      { "texto": "Blog personal", "url": "https://uisek.edu.ec" }
+    ],
+    "tags": ["Negocios", "Excel", "Administración"]
+  }
+]

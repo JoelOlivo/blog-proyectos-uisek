@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Acerca de — Proyectos UISEK</title>
+<meta name="description" content="Conoce el propósito del archivo de proyectos académicos de la Universidad Internacional SEK.">
+<link rel="icon" href="assets/icons/logo-uisek.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body data-page="acerca">
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="index.html">
+      <img src="assets/icons/logo-uisek.svg" alt="Universidad Internacional SEK">
+      <span class="brand-text">
+        <span class="uni">Universidad Internacional SEK</span>
+        <span class="site">Proyectos UISEK</span>
+      </span>
+    </a>
+    <nav class="main-nav" aria-label="Navegación principal">
+      <a href="index.html" data-page="inicio">Inicio</a>
+      <a href="proyectos.html" data-page="proyectos">Proyectos</a>
+      <a href="acerca.html" data-page="acerca">Acerca de</a>
+      <!-- <a href="contacto.html" data-page="contacto">Contacto</a> -->
+    </nav>
+    <div class="header-actions">
+      <button class="icon-btn search-toggle" aria-label="Buscar proyectos">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      </button>
+      <a class="btn btn-outline btn-sm" href="proyectos.html">Explorar proyectos</a>
+      <button class="nav-toggle" aria-label="Abrir menú" aria-expanded="false"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+  <div class="search-flyout">
+    <div class="container">
+      <form>
+        <div class="search-field">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+          <input type="search" placeholder="Buscar proyectos, categorías, autores…" aria-label="Buscar proyectos">
+          <span class="search-hint">Enter ↵</span>
+        </div>
+      </form>
+    </div>
+  </div>
+</header>
+
+<!-- <div class="mobile-drawer" aria-label="Menú móvil">
+  <a href="index.html" data-page="inicio">Inicio</a>
+  <a href="proyectos.html" data-page="proyectos">Proyectos</a>
+  <a href="acerca.html" data-page="acerca">Acerca de</a>
+  <a href="contacto.html" data-page="contacto">Contacto</a>
+  <a class="btn btn-primary btn-block" href="proyectos.html">Explorar proyectos</a>
+</div> -->
+
+<main>
+  <section class="page-hero">
+    <div class="container">
+      <nav class="breadcrumb"><a href="index.html">Inicio</a><span class="sep">/</span><span class="current">Acerca de</span></nav>
+      <span class="eyebrow">El archivo</span>
+      <h1>Documentar es también enseñar.</h1>
+      <p>Proyectos UISEK nació de una pregunta simple: ¿qué pasa con el trabajo excepcional que se produce cada ciclo en las aulas? Este archivo existe para que no se quede en una carpeta, sino en un lugar donde se pueda leer, citar y compartir.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container about-hero">
+      <div>
+        <span class="eyebrow">Nuestro propósito</span>
+        <h2 style="font-size: clamp(26px,3vw,34px); margin-top:14px;">Un puente entre el aula y el mundo real</h2>
+        <p style="color:var(--slate); margin-top:18px; font-size:15.5px;">Cada semestre, cientos de estudiantes de la UISEK desarrollan soluciones a problemas reales: desde sistemas de riego inteligente hasta vivienda de emergencia. Este sitio reúne esos proyectos en un formato editorial claro, pensado tanto para la comunidad universitaria como para cualquier persona interesada en la innovación que se produce en Ecuador.</p>
+        <p style="color:var(--slate); margin-top:14px; font-size:15.5px;">El contenido se organiza como un blog — con fecha, autoría y categoría — porque creemos que la ciencia y el diseño se entienden mejor cuando se cuentan como una historia en desarrollo, no como un archivo estático.</p>
+        <div class="hero-actions" style="margin-top:28px;">
+          <a class="btn btn-primary" href="proyectos.html">Ver el archivo completo</a>
+          <!-- <a class="btn btn-outline" href="contacto.html">Publicar un proyecto</a> -->
+        </div>
+      </div>
+      <img src="assets/img/about-campus.svg" alt="Ilustración del campus de la Universidad Internacional SEK en Quito">
+    </div>
+  </section>
+
+  <section class="section section--tight" style="background:#fff; border-top:1px solid var(--line); border-bottom:1px solid var(--line);">
+    <div class="container">
+      <div class="stat-strip">
+        <div><strong id="ac-total">—</strong><span>Proyectos archivados</span></div>
+        <div><strong id="ac-categorias">—</strong><span>Áreas de estudio</span></div>
+        <div><strong>18</strong><span>Docentes guía</span></div>
+        <div><strong>2024</strong><span>Inicio del archivo</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <span class="eyebrow">Cómo trabajamos</span>
+          <h2>Tres principios editoriales</h2>
+        </div>
+      </div>
+      <div class="value-grid">
+        <div class="value-card">
+          <span class="num">Rigor</span>
+          <h3>Se documenta como se investiga</h3>
+          <p>Cada publicación incluye metodología, autoría y fuentes verificables — no es una simple galería de imágenes bonitas.</p>
+        </div>
+        <div class="value-card">
+          <span class="num">Acceso</span>
+          <h3>Abierto a toda la comunidad</h3>
+          <p>Sin registro ni muros de pago. Cualquier persona puede consultar, descargar y citar el trabajo publicado aquí.</p>
+        </div>
+        <div class="value-card">
+          <span class="num">Contexto local</span>
+          <h3>Problemas reales del Ecuador</h3>
+          <p>Priorizamos proyectos que responden a necesidades concretas de nuestras comunidades, ciudades y territorios.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- <section class="section section--tight">
+    <div class="container">
+      <div class="cta-band">
+        <div>
+          <h2>¿Eres docente y quieres postular el trabajo de tu curso?</h2>
+          <p>Escríbenos con el nombre del proyecto, la carrera y un breve resumen. Nuestro equipo editorial se pondrá en contacto contigo.</p>
+        </div>
+        <a class="btn btn-accent" href="contacto.html">Ir a contacto <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+      </div>
+    </div>
+  </section> -->
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-col">
+        <div class="footer-brand">
+          <img src="assets/icons/logo-uisek.svg" alt="Universidad Internacional SEK" width="42" height="42">
+          <span class="brand-text">
+            <span class="uni">Universidad Internacional SEK</span>
+            <span class="site">Proyectos UISEK</span>
+          </span>
+        </div>
+        <p>Archivo abierto de proyectos académicos: investigación, tecnología y diseño hechos por la comunidad UISEK.</p>
+        <div class="social-row">
+          <a href="#" aria-label="Facebook"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
+          <a href="#" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1"/></svg></a>
+          <a href="#" aria-label="LinkedIn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/><path d="M10 9h4v2a4 4 0 0 1 4-2c3 0 4 2 4 5v7h-4v-6c0-1.5-.5-2.5-2-2.5S12 12.5 12 14v7h-4z"/></svg></a>
+          <a href="#" aria-label="YouTube"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="5" width="20" height="14" rx="4"/><path d="M10 9l5 3-5 3z"/></svg></a>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h4>Enlaces rápidos</h4>
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="proyectos.html">Todos los proyectos</a></li>
+          <li><a href="acerca.html">Acerca de</a></li>
+          <!-- <li><a href="contacto.html">Contacto</a></li> -->
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Categorías</h4>
+        <ul>
+          <li><a href="proyectos.html?categoria=tecnologia">Tecnología e Innovación</a></li>
+          <li><a href="proyectos.html?categoria=ingenieria">Ingeniería</a></li>
+          <li><a href="proyectos.html?categoria=diseno">Diseño y Arquitectura</a></li>
+          <li><a href="proyectos.html?categoria=sostenibilidad">Sostenibilidad</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Contacto</h4>
+        <p>Av. Alberto Einstein s/n y Segunda Transversal,<br>Quito, Ecuador</p>
+        <p>info@uisek.edu.ec</p>
+        <p>+593 2 397 3630</p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© <span class="current-year">2026</span> Universidad Internacional SEK. Todos los derechos reservados.</span>
+      <div class="footer-legal">
+        <a href="#">Términos</a>
+        <a href="#">Privacidad</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/utils.js"></script>
+<script src="js/layout.js"></script>
+<script>
+(async function(){
+  try{
+    const [proyectos, categorias] = await Promise.all([cargarDatos('proyectos'), cargarDatos('categorias')]);
+    document.getElementById('ac-total').textContent = proyectos.length;
+    document.getElementById('ac-categorias').textContent = categorias.length;
+  }catch(e){ console.error(e); }
+})();
+</script>
+</body>
+</html>
