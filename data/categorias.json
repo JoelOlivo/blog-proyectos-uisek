@@ -1,0 +1,9 @@
+[
+  { "slug": "tecnologia",       "nombre": "Tecnología e Innovación", "icono": "◆" },
+  { "slug": "ingenieria",       "nombre": "Ingeniería",              "icono": "▲" },
+  { "slug": "diseno",           "nombre": "Diseño y Arquitectura",   "icono": "◇" },
+  { "slug": "sociales",         "nombre": "Ciencias Sociales",       "icono": "●" },
+  { "slug": "sostenibilidad",   "nombre": "Sostenibilidad",          "icono": "○" },
+  { "slug": "salud",            "nombre": "Salud y Biotecnología",   "icono": "✚" },
+  { "slug": "negocios",         "nombre": "Negocios",                "icono": "✚" }
+]

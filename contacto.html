@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contacto — Proyectos UISEK</title>
+<meta name="description" content="Ponte en contacto con el equipo editorial de Proyectos UISEK para publicar tu trabajo académico.">
+<link rel="icon" href="assets/icons/logo-uisek.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body data-page="contacto">
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="index.html">
+      <img src="assets/icons/logo-uisek.svg" alt="Universidad Internacional SEK">
+      <span class="brand-text">
+        <span class="uni">Universidad Internacional SEK</span>
+        <span class="site">Proyectos UISEK</span>
+      </span>
+    </a>
+    <nav class="main-nav" aria-label="Navegación principal">
+      <a href="index.html" data-page="inicio">Inicio</a>
+      <a href="proyectos.html" data-page="proyectos">Proyectos</a>
+      <a href="acerca.html" data-page="acerca">Acerca de</a>
+      <a href="contacto.html" data-page="contacto">Contacto</a>
+    </nav>
+    <div class="header-actions">
+      <button class="icon-btn search-toggle" aria-label="Buscar proyectos">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      </button>
+      <a class="btn btn-outline btn-sm" href="proyectos.html">Explorar proyectos</a>
+      <button class="nav-toggle" aria-label="Abrir menú" aria-expanded="false"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+  <div class="search-flyout">
+    <div class="container">
+      <form>
+        <div class="search-field">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+          <input type="search" placeholder="Buscar proyectos, categorías, autores…" aria-label="Buscar proyectos">
+          <span class="search-hint">Enter ↵</span>
+        </div>
+      </form>
+    </div>
+  </div>
+</header>
+
+<!-- <div class="mobile-drawer" aria-label="Menú móvil">
+  <a href="index.html" data-page="inicio">Inicio</a>
+  <a href="proyectos.html" data-page="proyectos">Proyectos</a>
+  <a href="acerca.html" data-page="acerca">Acerca de</a>
+  <a href="contacto.html" data-page="contacto">Contacto</a>
+  <a class="btn btn-primary btn-block" href="proyectos.html">Explorar proyectos</a>
+</div> -->
+
+<main>
+  <section class="page-hero">
+    <div class="container">
+      <nav class="breadcrumb"><a href="index.html">Inicio</a><span class="sep">/</span><span class="current">Contacto</span></nav>
+      <span class="eyebrow">Hablemos</span>
+      <h1>¿Quieres publicar tu proyecto o tienes una pregunta?</h1>
+      <p>Escríbenos usando el formulario o por cualquiera de nuestros canales institucionales. Respondemos en un máximo de 2 días hábiles.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container contact-layout">
+      <div>
+        <div class="form-success" id="form-success">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg>
+          <span>Mensaje enviado. Gracias por escribirnos — te responderemos pronto.</span>
+        </div>
+
+        <form id="contact-form" novalidate>
+          <div class="field-row">
+            <div class="field-group">
+              <label for="nombre">Nombre completo</label>
+              <input type="text" id="nombre" name="nombre" placeholder="Tu nombre" required>
+            </div>
+            <div class="field-group">
+              <label for="correo">Correo electrónico</label>
+              <input type="email" id="correo" name="correo" placeholder="tucorreo@uisek.edu.ec" required>
+            </div>
+          </div>
+          <div class="field-group">
+            <label for="motivo">Motivo de contacto</label>
+            <select id="motivo" name="motivo">
+              <option>Publicar un proyecto</option>
+              <option>Consulta general</option>
+              <option>Prensa y medios</option>
+              <option>Reporte de un error en el sitio</option>
+            </select>
+          </div>
+          <div class="field-group">
+            <label for="asunto">Asunto</label>
+            <input type="text" id="asunto" name="asunto" placeholder="Título breve de tu mensaje" required>
+          </div>
+          <div class="field-group">
+            <label for="mensaje">Mensaje</label>
+            <textarea id="mensaje" name="mensaje" rows="6" placeholder="Cuéntanos sobre tu proyecto o tu consulta…" required></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary btn-block">Enviar mensaje</button>
+          <p class="form-note">Al enviar este formulario aceptas que usemos tus datos únicamente para responder tu solicitud. Este sitio es una demostración estática: el envío no se transmite a ningún servidor.</p>
+        </form>
+      </div>
+
+      <div>
+        <div class="info-card">
+          <h3>Información de contacto</h3>
+          <div class="info-item">
+            <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 12-9 12s-9-5-9-12a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span>
+            <div><strong>Dirección</strong><span>Av. Alberto Einstein s/n y Segunda Transversal, Quito, Ecuador</span></div>
+          </div>
+          <div class="info-item">
+            <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.68 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.32 1.85.55 2.81.68A2 2 0 0 1 22 16.92z"/></svg></span>
+            <div><strong>Teléfono</strong><a href="tel:+59323973630">+593 2 397 3630</a></div>
+          </div>
+          <div class="info-item">
+            <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16v16H4z"/><path d="M22 6l-10 7L2 6"/></svg></span>
+            <div><strong>Correo</strong><a href="mailto:proyectos@uisek.edu.ec">proyectos@uisek.edu.ec</a></div>
+          </div>
+          <div class="info-item">
+            <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg></span>
+            <div><strong>Horario de atención</strong><span>Lunes a viernes, 8:00–17:00</span></div>
+          </div>
+          <div class="map-frame">
+            <img src="assets/img/about-campus.svg" alt="Mapa ilustrativo de la ubicación del campus UISEK en Quito" style="width:100%; height:100%; object-fit:cover;">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-col">
+        <div class="footer-brand">
+          <img src="assets/icons/logo-uisek.svg" alt="Universidad Internacional SEK" width="42" height="42">
+          <span class="brand-text">
+            <span class="uni">Universidad Internacional SEK</span>
+            <span class="site">Proyectos UISEK</span>
+          </span>
+        </div>
+        <p>Archivo abierto de proyectos académicos: investigación, tecnología y diseño hechos por la comunidad UISEK.</p>
+        <div class="social-row">
+          <a href="#" aria-label="Facebook"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
+          <a href="#" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1"/></svg></a>
+          <a href="#" aria-label="LinkedIn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/><path d="M10 9h4v2a4 4 0 0 1 4-2c3 0 4 2 4 5v7h-4v-6c0-1.5-.5-2.5-2-2.5S12 12.5 12 14v7h-4z"/></svg></a>
+          <a href="#" aria-label="YouTube"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="5" width="20" height="14" rx="4"/><path d="M10 9l5 3-5 3z"/></svg></a>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h4>Enlaces rápidos</h4>
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="proyectos.html">Todos los proyectos</a></li>
+          <li><a href="acerca.html">Acerca de</a></li>
+          <li><a href="contacto.html">Contacto</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Categorías</h4>
+        <ul>
+          <li><a href="proyectos.html?categoria=tecnologia">Tecnología e Innovación</a></li>
+          <li><a href="proyectos.html?categoria=ingenieria">Ingeniería</a></li>
+          <li><a href="proyectos.html?categoria=diseno">Diseño y Arquitectura</a></li>
+          <li><a href="proyectos.html?categoria=sostenibilidad">Sostenibilidad</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Contacto</h4>
+        <p>Av. Alberto Einstein s/n y Segunda Transversal,<br>Quito, Ecuador</p>
+        <p>info@uisek.edu.ec</p>
+        <p>+593 2 397 3630</p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© <span class="current-year">2026</span> Universidad Internacional SEK. Todos los derechos reservados.</span>
+      <div class="footer-legal">
+        <a href="#">Términos</a>
+        <a href="#">Privacidad</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/utils.js"></script>
+<script src="js/layout.js"></script>
+<script src="js/contacto.js"></script>
+</body>
+</html>
