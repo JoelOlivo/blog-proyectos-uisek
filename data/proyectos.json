@@ -11,7 +11,7 @@
     "destacado": false,
     "portada": "assets/img/cover-tecnologia.svg",
     "descripcion": [
-      "El programa de capasitación surge de la necesidad de optimizar el uso de agua en cultivos de la Sierra ecuatoriana, donde el riego manual genera pérdidas de hasta un 40% del recurso hídrico.",
+      "El proyecto surge de la necesidad de optimizar el uso de agua en cultivos de la Sierra ecuatoriana, donde el riego manual genera pérdidas de hasta un 40% del recurso hídrico.",
       "Se diseñó una red de sensores de humedad y temperatura conectados a un microcontrolador ESP32, que envía datos en tiempo real a un panel web donde el agricultor puede monitorear el estado del suelo y activar el riego automático desde su celular.",
       "Las pruebas de campo, realizadas durante ocho semanas en un invernadero piloto, mostraron una reducción del 27% en el consumo de agua sin afectar el rendimiento del cultivo."
     ],
