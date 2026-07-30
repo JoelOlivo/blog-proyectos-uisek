@@ -27,7 +27,7 @@
         <div class="spec-meta">
           <span>${heroProyecto.carrera}</span>
         </div>
-        <a class="btn btn-accent btn-sm" style="margin-top:18px;" href="proyecto.html?id=${heroProyecto.id}">Leer publicación</a>
+        <a class="btn btn-accent btn-sm" style="margin-top:18px;" href="proyecto.html?id=${heroProyecto.id}">Ver capacitación</a>
       `;
     }
 
@@ -42,7 +42,7 @@
       <a class="category-card" href="proyectos.html?categoria=${c.slug}">
         <span class="ico">${c.icono}</span>
         <strong>${c.nombre}</strong>
-        <span>${total} proyecto${total === 1 ? '' : 's'}</span>
+        <span>${total} capacitación${total === 1 ? '' : 'es'}</span>
       </a>`;
     }).join('');
 
@@ -54,7 +54,7 @@
     console.error(err);
     document.getElementById('grid-destacados').innerHTML =
       `<div class="state-block" style="grid-column:1/-1;">
-        <h3>No se pudieron cargar los proyectos</h3>
+        <h3>No se pudieron cargar las capacitaciones</h3>
         <p>Verifica que los archivos en /data estén disponibles.</p>
       </div>`;
   }
