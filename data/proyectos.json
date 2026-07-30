@@ -15,11 +15,7 @@
       "Se diseñó una red de sensores de humedad y temperatura conectados a un microcontrolador ESP32, que envía datos en tiempo real a un panel web donde el agricultor puede monitorear el estado del suelo y activar el riego automático desde su celular.",
       "Las pruebas de campo, realizadas durante ocho semanas en un invernadero piloto, mostraron una reducción del 27% en el consumo de agua sin afectar el rendimiento del cultivo."
     ],
-    "galeria": [
-      { "src": "assets/img/gallery-01.svg", "alt": "Prototipo del sensor de humedad instalado en campo" },
-      { "src": "assets/img/gallery-03.svg", "alt": "Diagrama esquemático del circuito" },
-      { "src": "assets/img/gallery-04.svg", "alt": "Panel de monitoreo web" }
-    ],
+    "galeria": [],
     "videos": [
       { "titulo": "Demostración del sistema en campo", "url": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
     ],
@@ -49,10 +45,7 @@
       "El diseño permite ensamblar tramos de 4 metros sin soldadura ni maquinaria pesada, reduciendo el tiempo de instalación de semanas a menos de 48 horas.",
       "Se realizaron simulaciones estructurales en elementos finitos y un modelo a escala 1:10 fue sometido a pruebas de carga en el laboratorio de estructuras de la universidad."
     ],
-    "galeria": [
-      { "src": "assets/img/gallery-02.svg", "alt": "Modelo a escala del puente modular" },
-      { "src": "assets/img/gallery-03.svg", "alt": "Planos estructurales" }
-    ],
+    "galeria": [],
     "videos": [],
     "documentos": [
       { "nombre": "Memoria de cálculo estructural", "archivo": "assets/docs/memoria-puente.pdf", "tipo": "PDF", "tamano": "4.8 MB" }
@@ -76,10 +69,7 @@
       "Se desarrollaron una tipografía inspirada en los rótulos pintados a mano, una paleta de color derivada de los productos locales y un manual de aplicaciones para toldos, delantales y puntos de venta.",
       "El sistema fue validado con comerciantes del Mercado Central mediante entrevistas y prototipos de baja fidelidad."
     ],
-    "galeria": [
-      { "src": "assets/img/gallery-04.svg", "alt": "Sistema tipográfico aplicado a señalética" },
-      { "src": "assets/img/gallery-01.svg", "alt": "Prototipos de toldos" }
-    ],
+    "galeria": [],
     "videos": [
       { "titulo": "Proceso de investigación en campo", "url": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
     ],
@@ -107,10 +97,7 @@
       "Durante doce semanas se trabajó con un grupo de 35 personas mayores de 60 años en el uso de banca móvil, videollamadas y prevención de fraudes digitales.",
       "El 82% de los participantes reportó sentirse más seguro usando su celular al finalizar el programa, según la escala de autoeficacia digital aplicada."
     ],
-    "galeria": [
-      { "src": "assets/img/gallery-05.svg", "alt": "Taller con adultos mayores" },
-      { "src": "assets/img/gallery-04.svg", "alt": "Interfaz simplificada de la aplicación" }
-    ],
+    "galeria": [],
     "videos": [],
     "documentos": [
       { "nombre": "Resultados del estudio", "archivo": "assets/docs/estudio-alfabetizacion.pdf", "tipo": "PDF", "tamano": "2.4 MB" }
@@ -134,10 +121,7 @@
       "El diseño incorpora un sistema de aireación pasiva y un biofiltro de carbón activado que elimina los olores, permitiendo su instalación en terrazas y patios interiores.",
       "El piloto instalado en un condominio de 40 familias procesó 180 kg de residuos orgánicos en dos meses, generando abono para las áreas verdes del conjunto."
     ],
-    "galeria": [
-      { "src": "assets/img/gallery-02.svg", "alt": "Módulo de compostaje instalado" },
-      { "src": "assets/img/gallery-03.svg", "alt": "Corte técnico del sistema de aireación" }
-    ],
+    "galeria": [],
     "videos": [
       { "titulo": "Recorrido por el piloto instalado", "url": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
     ],
@@ -165,9 +149,7 @@
       "Se desarrolló un biosensor electroquímico de bajo costo capaz de correlacionar la concentración de glucosa salival con los niveles en sangre, validado frente a un glucómetro comercial.",
       "Los resultados preliminares muestran una correlación de 0.81 entre ambas mediciones, lo que abre la puerta a futuras validaciones clínicas a mayor escala."
     ],
-    "galeria": [
-      { "src": "assets/img/gallery-05.svg", "alt": "Prototipo del biosensor en laboratorio" }
-    ],
+    "galeria": [],
     "videos": [],
     "documentos": [
       { "nombre": "Paper preliminar", "archivo": "assets/docs/paper-biosensor.pdf", "tipo": "PDF", "tamano": "2.9 MB" }
@@ -191,10 +173,7 @@
       "El algoritmo de ruteo pondera variables como pendiente, iluminación nocturna y densidad de tráfico para sugerir el trayecto más seguro, no necesariamente el más corto.",
       "En su fase piloto, la app fue probada por 60 ciclistas del colectivo Biciacción durante un mes, registrando más de 400 rutas completadas."
     ],
-    "galeria": [
-      { "src": "assets/img/gallery-04.svg", "alt": "Interfaz de la aplicación móvil" },
-      { "src": "assets/img/gallery-01.svg", "alt": "Mapa de calor de rutas seguras" }
-    ],
+    "galeria": [],
     "videos": [
       { "titulo": "Recorrido de la app", "url": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
     ],
@@ -221,10 +200,7 @@
       "El sistema constructivo usa uniones prefabricadas que permiten el montaje sin mano de obra especializada, reduciendo el costo total a menos de 900 dólares por unidad.",
       "Un prototipo a escala real fue construido en el patio de la Facultad y sometido a pruebas de estabilidad ante viento y carga vertical."
     ],
-    "galeria": [
-      { "src": "assets/img/gallery-02.svg", "alt": "Prototipo de vivienda construido" },
-      { "src": "assets/img/gallery-03.svg", "alt": "Detalle constructivo de uniones" }
-    ],
+    "galeria": [],
     "videos": [],
     "documentos": [
       { "nombre": "Planos constructivos", "archivo": "assets/docs/planos-vivienda-bambu.pdf", "tipo": "PDF", "tamano": "5.1 MB" }
@@ -235,7 +211,7 @@
   {
     "id": "excel-para-todos",
     "titulo": "Excel para pequeños negocios",
-    "resumen": "Lorem ipsum dolor sit amet consectetur adipiscing elit vel convallis, turpis nisl habitasse hac curabitur morbi etiam lacus, nullam elementum ut senectus nisi fringilla et mauris.",
+    "resumen": "Capacitación dirigida a emprendedores y pequeños negocios para aprender a utilizar Microsoft Excel como herramienta de organización, control de información, gestión de ventas y administración de procesos mediante funciones básicas, tablas y hojas de cálculo.",
     "categoria": "negocios",
     "carrera": "Administración",
     "autores": ["Cristobal Charvet", "David Revelo", "Leonardo Rodríguez", "Iván Ortega"],
@@ -244,15 +220,11 @@
     "destacado": true,
     "portada": "assets/img/cover-tecnologia.svg",
     "descripcion": [
-      "Lorem ipsum dolor sit amet consectetur adipiscing elit vel convallis, turpis nisl habitasse hac curabitur morbi etiam lacus, nullam elementum ut senectus nisi fringilla et mauris.",
-      "Lorem ipsum dolor sit amet consectetur adipiscing elit vel convallis, turpis nisl habitasse hac curabitur morbi etiam lacus, nullam elementum ut senectus nisi fringilla et mauris.",
-      "Lorem ipsum dolor sit amet consectetur adipiscing elit vel convallis, turpis nisl habitasse hac curabitur morbi etiam lacus, nullam elementum ut senectus nisi fringilla et mauris."
+     "El proyecto presenta una capacitación sobre Microsoft Excel orientada a emprendedores y pequeños negocios que desean mejorar la organización de su información y optimizar la gestión de sus actividades comerciales.",
+  "Durante el taller se enseñan conceptos fundamentales de Excel, incluyendo el uso de hojas de cálculo, fórmulas básicas, funciones, tablas, formatos y herramientas que facilitan el control de ventas, inventarios, ingresos y gastos.",
+  "Como complemento del aprendizaje, la capacitación incorpora ejercicios prácticos, actividades interactivas, una evaluación final y material de apoyo que permiten reforzar los conocimientos adquiridos y aplicarlos en situaciones reales de pequeños negocios."
     ],
-    "galeria": [
-      { "src": "assets/img/gallery-01.svg", "alt": "img1" },
-      { "src": "assets/img/gallery-03.svg", "alt": "img2" },
-      { "src": "assets/img/gallery-04.svg", "alt": "img3" }
-    ],
+    "galeria": [],
     "videos": [
       {
         "titulo": "Demostración del proyecto",
@@ -293,20 +265,7 @@
     "Durante el taller los participantes aprenden a configurar un perfil empresarial, crear catálogos de productos, establecer una identidad digital, automatizar mensajes y aplicar buenas prácticas de comunicación comercial mediante herramientas propias de la plataforma.",
     "Como complemento al proceso de aprendizaje se incorporan actividades interactivas en Genially, evaluaciones en línea y material de apoyo que permiten reforzar los conocimientos y facilitar su aplicación en escenarios reales."
   ],
-  "galeria": [
-    {
-      "src": "assets/img/whatsapp1.jpg",
-      "alt": "Configuración del perfil empresarial en WhatsApp Business"
-    },
-    {
-      "src": "assets/img/whatsapp2.jpg",
-      "alt": "Creación del catálogo de productos en WhatsApp Business"
-    },
-    {
-      "src": "assets/img/whatsapp3.jpg",
-      "alt": "Automatización de mensajes y atención al cliente"
-    }
-  ],
+  "galeria": [],
   "videos": [
     {
       "titulo": "Video de la capacitación",
@@ -384,20 +343,7 @@
     "Durante la capacitación se explican amenazas como phishing, robo de información, malware y fraudes en redes sociales y WhatsApp. Además, se enseñan buenas prácticas como el uso de contraseñas seguras, autenticación en dos pasos, copias de seguridad y protección de datos.",
     "Como complemento del aprendizaje, el proyecto incorpora formularios de diagnóstico, actividades prácticas, ejercicios interactivos en Genially y una evaluación final que permiten reforzar los conocimientos adquiridos y fomentar una cultura de seguridad digital."
   ],
-  "galeria": [
-    {
-      "src": "assets/img/ciber1.jpg",
-      "alt": "Identificación de riesgos y amenazas en Internet"
-    },
-    {
-      "src": "assets/img/ciber2.jpg",
-      "alt": "Buenas prácticas de ciberseguridad y protección de datos"
-    },
-    {
-      "src": "assets/img/ciber3.jpg",
-      "alt": "Protección digital para pequeños negocios"
-    }
-  ],
+  "galeria": [],
   "videos": [],
   "documentos": [
     {
@@ -477,20 +423,7 @@
     "Durante la capacitación se explica el funcionamiento de n8n, sus principales ventajas, aplicaciones y casos prácticos, permitiendo a los participantes conocer cómo integrar diferentes aplicaciones para automatizar tareas como el registro de clientes, envío de correos, gestión de pedidos y actualización de bases de datos.",
     "Como complemento del aprendizaje se incluyen actividades interactivas, un test de evaluación y una lectura recomendada que fortalecen los conocimientos sobre automatización de procesos y transformación digital en pequeños negocios."
   ],
-  "galeria": [
-    {
-      "src": "assets/img/gallery-01.svg",
-      "alt": "Automatización de procesos"
-    },
-    {
-      "src": "assets/img/gallery-03.svg",
-      "alt": "Flujos de trabajo"
-    },
-    {
-      "src": "assets/img/gallery-04.svg",
-      "alt": "Integración de aplicaciones"
-    }
-  ],
+  "galeria": [],
   "videos": [],
   "documentos": [
     {
@@ -554,20 +487,9 @@
     "Durante el taller se explican los fundamentos del branding digital, los elementos que conforman una marca y el uso de herramientas de inteligencia artificial como Canva IA, Adobe Firefly, Looka y Designs.ai para generar propuestas visuales de forma rápida y profesional.",
     "Como complemento del aprendizaje, el proyecto incorpora actividades interactivas, una evaluación del tema y una lectura recomendada que permiten reforzar los conocimientos sobre branding digital e innovación mediante inteligencia artificial."
   ],
-  "galeria": [
-    {
-      "src": "assets/img/marca1.jpg",
-      "alt": "Creación de identidad visual con inteligencia artificial"
-    },
-    {
-      "src": "assets/img/marca2.jpg",
-      "alt": "Diseño de logotipos y branding digital"
-    },
-    {
-      "src": "assets/img/marca3.jpg",
-      "alt": "Herramientas de inteligencia artificial para diseño gráfico"
-    }
-  ],
+
+
+  "galeria": [],
   "videos": [],
   "documentos": [
     {
@@ -582,6 +504,7 @@
       "tipo": "PDF",
       "tamano": ""
     }
+    
   ],
   "enlaces": [
     {
