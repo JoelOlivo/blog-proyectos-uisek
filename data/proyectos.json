@@ -271,5 +271,345 @@
       { "texto": "Blog personal", "url": "https://uisek.edu.ec" }
     ],
     "tags": ["Negocios", "Excel", "Administración"]
-  }
+  },
+
+  {
+  "id": "gestion-whatsapp-business",
+  "titulo": "Gestión de WhatsApp Business",
+  "resumen": "Capacitación dirigida a emprendedores y pequeños negocios para aprender a utilizar WhatsApp Business como herramienta de comunicación, atención al cliente y gestión comercial mediante la configuración del perfil empresarial, la automatización de mensajes y la creación de catálogos digitales.",
+  "categoria": "tecnologia",
+  "carrera": "Ingeniería en Software",
+  "autores": [
+    "Dario Alexis Hernandez Vilaña",
+    "Jennifer Adelita Simba Alquinga",
+    "Jonathan Mateo Tello Alvarez"
+  ],
+  "docente": "MSc. Sandra López",
+  "fecha": "2026-05-03",
+  "destacado": false,
+  "portada": "assets/img/cover-tecnologia.svg",
+  "descripcion": [
+    "El proyecto consiste en una capacitación práctica sobre WhatsApp Business dirigida a emprendedores y pequeños negocios con el propósito de fortalecer su presencia digital y mejorar la atención al cliente.",
+    "Durante el taller los participantes aprenden a configurar un perfil empresarial, crear catálogos de productos, establecer una identidad digital, automatizar mensajes y aplicar buenas prácticas de comunicación comercial mediante herramientas propias de la plataforma.",
+    "Como complemento al proceso de aprendizaje se incorporan actividades interactivas en Genially, evaluaciones en línea y material de apoyo que permiten reforzar los conocimientos y facilitar su aplicación en escenarios reales."
+  ],
+  "galeria": [
+    {
+      "src": "assets/img/whatsapp1.jpg",
+      "alt": "Configuración del perfil empresarial en WhatsApp Business"
+    },
+    {
+      "src": "assets/img/whatsapp2.jpg",
+      "alt": "Creación del catálogo de productos en WhatsApp Business"
+    },
+    {
+      "src": "assets/img/whatsapp3.jpg",
+      "alt": "Automatización de mensajes y atención al cliente"
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "Video de la capacitación",
+      "url": "https://canva.link/hpyp0r30b881c4n"
+    }
+  ],
+  "documentos": [
+    {
+      "nombre": "Planificación del taller",
+      "archivo": "assets/docs/gestion-whatsapp-business/G1_Tarea_1_Proyecto_VCS76256_Impulso_online.pdf",
+      "tipo": "PDF",
+      "tamano": ""
+    },
+    {
+      "nombre": "Presentación WhatsApp Business",
+      "archivo": "assets/docs/gestion-whatsapp-business/G1_Tarea_2_WhatsApp_Business.pdf",
+      "tipo": "PDF",
+      "tamano": ""
+    },
+    {
+      "nombre": "Aplicación para grupos de capacitación",
+      "archivo": "assets/docs/gestion-whatsapp-business/G1_Tarea_3_Aplica_para_grupos_de_capacitacion.pdf",
+      "tipo": "PDF",
+      "tamano": ""
+    }
+  ],
+  "enlaces": [
+    {
+      "texto": "Simulador de Atención al Cliente",
+      "url": "https://view.genially.com/6a15de8ecf2b354c42921751"
+    },
+    {
+      "texto": "Relacionar Conceptos",
+      "url": "https://view.genially.com/6a1358084ddb3d71f621f963"
+    },
+    {
+      "texto": "Quiz ¿Cuánto sabes de WhatsApp Business?",
+      "url": "https://view.genially.com/6a03cad0c007184e73d04f85"
+    },
+    {
+      "texto": "Test de Evaluación",
+      "url": "https://wayground.com/join?gc=61669105"
+    },
+    {
+      "texto": "Lectura recomendada",
+      "url": "https://business.trustedshops.es/blog/whatsapp-business/"
+    }
+  ],
+  "tags": [
+    "WhatsApp Business",
+    "Marketing Digital",
+    "Atención al Cliente",
+    "Emprendimiento"
+  ]
+},
+        
+
+{
+  "id": "ciberseguridad-para-pequenos-negocios",
+  "titulo": "Ciberseguridad para Pequeños Negocios",
+  "resumen": "Capacitación dirigida a emprendedores y pequeños negocios para aprender a identificar amenazas digitales, proteger la información de sus clientes y aplicar buenas prácticas de ciberseguridad mediante actividades prácticas e interactivas.",
+  "categoria": "tecnologia",
+  "carrera": "Ingeniería en Software",
+  "autores": [
+    "Keila Alely Cerda Alvarado",
+    "Michael Steve Chicaiza Ochoa",
+    "Matías Jodoco García Andrade"
+  ],
+  "docente": "Ing. Sandra López",
+  "fecha": "2026-05-29",
+  "destacado": false,
+  "portada": "assets/img/cover-tecnologia.svg",
+  "descripcion": [
+    "El proyecto consiste en un programa de capacitación sobre ciberseguridad orientado a pequeños negocios y emprendedores, con el objetivo de fortalecer la protección de la información y reducir los riesgos asociados al uso de herramientas digitales.",
+    "Durante la capacitación se explican amenazas como phishing, robo de información, malware y fraudes en redes sociales y WhatsApp. Además, se enseñan buenas prácticas como el uso de contraseñas seguras, autenticación en dos pasos, copias de seguridad y protección de datos.",
+    "Como complemento del aprendizaje, el proyecto incorpora formularios de diagnóstico, actividades prácticas, ejercicios interactivos en Genially y una evaluación final que permiten reforzar los conocimientos adquiridos y fomentar una cultura de seguridad digital."
+  ],
+  "galeria": [
+    {
+      "src": "assets/img/ciber1.jpg",
+      "alt": "Identificación de riesgos y amenazas en Internet"
+    },
+    {
+      "src": "assets/img/ciber2.jpg",
+      "alt": "Buenas prácticas de ciberseguridad y protección de datos"
+    },
+    {
+      "src": "assets/img/ciber3.jpg",
+      "alt": "Protección digital para pequeños negocios"
+    }
+  ],
+  "videos": [],
+  "documentos": [
+    {
+      "nombre": "Presentación Ciberseguridad",
+      "archivo": "assets/docs/ciberseguridad/DIAPOSITIVAS_CIBERSEGURIDAD.pdf",
+      "tipo": "PDF",
+      "tamano": ""
+    },
+    {
+      "nombre": "Actividades Interactivas y Formulario",
+      "archivo": "assets/docs/ciberseguridad/Actividades interactivas y formulario - Ciberseguridad.pdf",
+      "tipo": "PDF",
+      "tamano": ""
+    },
+    {
+      "nombre": "Lectura Recomendada",
+      "archivo": "assets/docs/ciberseguridad/Lectura - Ciberseguridad.pdf",
+      "tipo": "PDF",
+      "tamano": ""
+    }
+  ],
+  "enlaces": [
+    {
+      "texto": "Diagnóstico Inicial",
+      "url": "https://forms.gle/AxrDUqWMErtbdJHb8"
+    },
+    {
+      "texto": "Análisis de Casos Reales",
+      "url": "https://forms.gle/byRXSf6F5EYhLqMQ7"
+    },
+    {
+      "texto": "Simulación Práctica",
+      "url": "https://forms.gle/oVQrQkKJeyKFPs1Y8"
+    },
+    {
+      "texto": "Detector de Fraude",
+      "url": "https://view.genially.com/6a1961c1cb05930132340478"
+    },
+    {
+      "texto": "Test Evaluativo",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSe9rTpvJUfjVCY9zaKtKJfjHSm6O6tPrEUX40kvqAonQ9_NNQ/viewform"
+    },
+    {
+      "texto": "Lectura Relevante sobre la Ciberseguridad",
+      "url": "https://latam.kaspersky.com/resource-center/preemptive-safety/small-business-cyber-security"
+    }
+  ],
+  "tags": [
+    "Ciberseguridad",
+    "Seguridad Digital",
+    "Protección de Datos",
+    "Phishing",
+    "Malware",
+    "Pequeños Negocios"
+  ]
+},
+          
+  
+
+{
+  "id": "inteligencia-artificial-negocios-pequenos",
+  "titulo": "Inteligencia Artificial para Negocios Pequeños",
+  "resumen": "Capacitación dirigida a emprendedores y pequeños negocios sobre el uso de herramientas de automatización basadas en inteligencia artificial para optimizar procesos, reducir tareas repetitivas y mejorar la productividad.",
+  "categoria": "tecnologia",
+  "carrera": "Ingeniería en Software",
+  "autores": [
+    "Boris Adrian Murillo Yajamin",
+    "Stiveen Paredes",
+    "Mateo Rodríguez"
+  ],
+  "docente": "Ing. Sandra Elizabeth López Vásquez",
+  "fecha": "2026-05-29",
+  "destacado": false,
+  "portada": "assets/img/cover-tecnologia.svg",
+  "descripcion": [
+    "El proyecto presenta una capacitación sobre herramientas de automatización para pequeños negocios, utilizando n8n como plataforma principal para optimizar procesos empresariales mediante flujos de trabajo automatizados.",
+    "Durante la capacitación se explica el funcionamiento de n8n, sus principales ventajas, aplicaciones y casos prácticos, permitiendo a los participantes conocer cómo integrar diferentes aplicaciones para automatizar tareas como el registro de clientes, envío de correos, gestión de pedidos y actualización de bases de datos.",
+    "Como complemento del aprendizaje se incluyen actividades interactivas, un test de evaluación y una lectura recomendada que fortalecen los conocimientos sobre automatización de procesos y transformación digital en pequeños negocios."
+  ],
+  "galeria": [
+    {
+      "src": "assets/img/gallery-01.svg",
+      "alt": "Automatización de procesos"
+    },
+    {
+      "src": "assets/img/gallery-03.svg",
+      "alt": "Flujos de trabajo"
+    },
+    {
+      "src": "assets/img/gallery-04.svg",
+      "alt": "Integración de aplicaciones"
+    }
+  ],
+  "videos": [],
+  "documentos": [
+    {
+      "nombre": "Presentación de la capacitación",
+      "archivo": "assets/docs/inteligencia-artificial-negocios-pequenos/Tarea 2.pptx",
+      "tipo": "PPTX",
+      "tamano": ""
+    },
+    {
+      "nombre": "Actividades y recursos",
+      "archivo": "assets/docs/inteligencia-artificial-negocios-pequenos/Tarea 2.pdf",
+      "tipo": "PDF",
+      "tamano": ""
+    }
+  ],
+  "enlaces": [
+    {
+      "texto": "Actividad Interactiva Genially 1",
+      "url": "https://view.genially.com/6a19bdb753aa85d97956e155"
+    },
+    {
+      "texto": "Actividad Interactiva Genially 2",
+      "url": "https://view.genially.com/6a19c1287130115bf1cb5bc7"
+    },
+    {
+      "texto": "Test de Evaluación",
+      "url": "https://forms.gle/MJXr8YrBoMeaxUzU6"
+    },
+    {
+      "texto": "Lectura Recomendada",
+      "url": "https://www.ibm.com/think/topics/businessautomation?utm_source=chatgpt.com"
+    }
+  ],
+  "tags": [
+    "Inteligencia Artificial",
+    "Automatización",
+    "n8n",
+    "Productividad",
+    "Pequeños Negocios",
+    "Transformación Digital"
+  ]
+},
+
+{
+  "id": "diseno-de-marca-con-ia",
+  "titulo": "Diseño de Marca con Inteligencia Artificial",
+  "resumen": "Capacitación dirigida a emprendedores y pequeños negocios para aprender a crear la identidad visual de una marca utilizando herramientas de inteligencia artificial que facilitan el diseño, optimizan el proceso creativo y fortalecen la presencia digital.",
+  "categoria": "tecnologia",
+  "carrera": "Ingeniería en Software",
+  "autores": [
+    "Carlos Alejandro Tene Mora",
+    "Daniel Alexander Yaguache Taipe",
+    "Alan Javier Yandun Ayala"
+  ],
+  "docente": "Ing. Sandra Elizabeth López Vázquez",
+  "fecha": "2026-05-29",
+  "destacado": false,
+  "portada": "assets/img/cover-tecnologia.svg",
+  "descripcion": [
+    "El proyecto presenta una capacitación sobre diseño de marca con inteligencia artificial, orientada a emprendedores y pequeños negocios que buscan fortalecer su identidad visual y mejorar su presencia digital.",
+    "Durante el taller se explican los fundamentos del branding digital, los elementos que conforman una marca y el uso de herramientas de inteligencia artificial como Canva IA, Adobe Firefly, Looka y Designs.ai para generar propuestas visuales de forma rápida y profesional.",
+    "Como complemento del aprendizaje, el proyecto incorpora actividades interactivas, una evaluación del tema y una lectura recomendada que permiten reforzar los conocimientos sobre branding digital e innovación mediante inteligencia artificial."
+  ],
+  "galeria": [
+    {
+      "src": "assets/img/marca1.jpg",
+      "alt": "Creación de identidad visual con inteligencia artificial"
+    },
+    {
+      "src": "assets/img/marca2.jpg",
+      "alt": "Diseño de logotipos y branding digital"
+    },
+    {
+      "src": "assets/img/marca3.jpg",
+      "alt": "Herramientas de inteligencia artificial para diseño gráfico"
+    }
+  ],
+  "videos": [],
+  "documentos": [
+    {
+      "nombre": "Presentación Diseño de Marca con IA",
+      "archivo": "assets/docs/diseno-de-marca-con-ia/Grupos_VIN_SOF.pptx",
+      "tipo": "PPTX",
+      "tamano": ""
+    },
+    {
+      "nombre": "Actividades y Recursos",
+      "archivo": "assets/docs/diseno-de-marca-con-ia/Grupos_VIN_SOF.pdf",
+      "tipo": "PDF",
+      "tamano": ""
+    }
+  ],
+  "enlaces": [
+    {
+      "texto": "Actividad Interactiva Genially 1",
+      "url": "https://view.genially.com/6a18ba6ff3a7cdd0d146182d"
+    },
+    {
+      "texto": "Actividad Interactiva Genially 2",
+      "url": "https://view.genially.com/6a198990869b468440771f84"
+    },
+    {
+      "texto": "Test de Evaluación",
+      "url": "https://forms.gle/UsHvJezb5yGdW9xF7"
+    },
+    {
+      "texto": "Lectura Recomendada",
+      "url": "https://weareshifta.com/impacto-inteligencia-artificial-en-diseno-de-marcas/?utm_source=chatgpt.com"
+    }
+  ],
+  "tags": [
+    "Branding",
+    "Inteligencia Artificial",
+    "Diseño",
+    "Canva IA",
+    "Adobe Firefly",
+    "Looka",
+    "Emprendimiento"
+  ]
+}
+
 ]

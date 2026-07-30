@@ -27,7 +27,7 @@ const ICONO_LINK = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" s
       return;
     }
 
-    document.title = `${p.titulo} — Proyectos UISEK`;
+    document.title = `${p.titulo} — Programas de Capacitación UISEK`;
     document.getElementById('breadcrumb-actual').textContent = p.titulo;
 
     const cat = nombreCategoria(p.categoria, categorias);
@@ -79,7 +79,7 @@ const ICONO_LINK = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" s
     const autoresHTML = p.autores.map(a => `
       <div class="author-row">
         <span class="author-avatar">${iniciales(a)}</span>
-        <div><strong>${a}</strong><span>Autor del proyecto</span></div>
+        <div><strong>${a}</strong><span>Instructor / Responsable</span></div>
       </div>`).join('');
 
     // Proyectos relacionados: misma categoría, excluyendo el actual
@@ -90,7 +90,7 @@ const ICONO_LINK = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" s
           <div class="section-head">
             <div>
               <span class="eyebrow">Más de ${cat}</span>
-              <h2>Proyectos relacionados</h2>
+              <h2>Capacitaciones relacionadas</h2>
             </div>
           </div>
           <div class="card-grid">
@@ -121,7 +121,7 @@ const ICONO_LINK = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" s
 
           <div class="project-layout">
             <div class="project-body">
-              <h2>Descripción del proyecto</h2>
+              <h2>Descripción de la capacitación</h2>
               ${p.descripcion.map(par => `<p>${par}</p>`).join('')}
               ${galeriaHTML}
               ${videosHTML}
@@ -142,7 +142,7 @@ const ICONO_LINK = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" s
                 </div>
               </div>
               ${enlacesHTML}
-              <a class="btn btn-primary btn-block" href="proyectos.html">Volver al archivo</a>
+              <a class="btn btn-primary btn-block" href="proyectos.html">Volver a las capacitaciones</a>
             </aside>
           </div>
         </div>

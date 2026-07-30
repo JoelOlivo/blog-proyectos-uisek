@@ -42,9 +42,9 @@ function tarjetaProyecto(p, categorias) {
   const cat = nombreCategoria(p.categoria, categorias);
   return `
   <article class="project-card">
-    <a href="proyecto.html?id=${p.id}" aria-label="Ver proyecto: ${p.titulo}">
+    <a href="proyecto.html?id=${p.id}" aria-label="Ver capacitación: ${p.titulo}">
       <div class="card-media">
-        <img src="${p.portada}" alt="Portada del proyecto ${p.titulo}" loading="lazy">
+        <img src="${p.portada}" alt="Portada de la capacitación ${p.titulo}" loading="lazy">
         <span class="card-cat">${cat}</span>
         <span class="card-corners"><i></i><i></i><i></i><i></i></span>
       </div>
@@ -58,7 +58,7 @@ function tarjetaProyecto(p, categorias) {
       <h3><a href="proyecto.html?id=${p.id}">${p.titulo}</a></h3>
       <p>${p.resumen}</p>
       <div class="card-foot">
-        <a class="card-link" href="proyecto.html?id=${p.id}">Ver proyecto ${ICONO_FLECHA}</a>
+        <a class="card-link" href="proyecto.html?id=${p.id}">Ver capacitación ${ICONO_FLECHA}</a>
         <div class="card-tags">${(p.tags || []).slice(0, 1).map(t => `<span class="tag">${t}</span>`).join('')}</div>
       </div>
     </div>
