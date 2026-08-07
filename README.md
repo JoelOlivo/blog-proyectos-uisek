@@ -87,6 +87,6 @@ JSON dinámicamente.
   `assets/docs/` (no incluidas). Coloca ahí los PDF reales y actualiza `archivo`
   en el JSON correspondiente.
 ## Integrantes
-Steven Gallegos
-José Moya
-Joel Olivo
+-Steven Gallegos
+-José Moya
+-Joel Olivo
