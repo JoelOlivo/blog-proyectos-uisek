@@ -9,7 +9,7 @@
     "docente": "Ing. Carla Robayo, MSc.",
     "fecha": "2026-05-14",
     "destacado": false,
-    "portada": "assets/img/cover-tecnologia.svg",
+    "portada": "assets/img/riego-inteligente-compressed.webp",
     "descripcion": [
       "El proyecto surge de la necesidad de optimizar el uso de agua en cultivos de la Sierra ecuatoriana, donde el riego manual genera pérdidas de hasta un 40% del recurso hídrico.",
       "Se diseñó una red de sensores de humedad y temperatura conectados a un microcontrolador ESP32, que envía datos en tiempo real a un panel web donde el agricultor puede monitorear el estado del suelo y activar el riego automático desde su celular.",
@@ -38,7 +38,7 @@
     "docente": "Ing. Fernando Ortiz, PhD.",
     "fecha": "2026-04-02",
     "destacado": false,
-    "portada": "assets/img/cover-ingenieria.svg",
+    "portada": "assets/img/pedestrian-overcrossing.jpg",
     "descripcion": [
       "Tras los deslizamientos que aislaron comunidades rurales, este proyecto propone un sistema de puente peatonal modular, ligero y de rápido montaje, construido con perfiles de fibra de carbono reforzada.",
       "El diseño permite ensamblar tramos de 4 metros sin soldadura ni maquinaria pesada, reduciendo el tiempo de instalación de semanas a menos de 48 horas.",
@@ -61,7 +61,7 @@
     "docente": "Dis. Andrea Cevallos, MSc.",
     "fecha": "2026-03-20",
     "destacado": false,
-    "portada": "assets/img/cover-diseno.svg",
+    "portada": "assets/img/mercado_artesanal_la_mariscal_475df1_2323753b80.webp",
     "descripcion": [
       "El proyecto documenta la señalética espontánea de tres mercados del Centro Histórico de Quito y propone un sistema de identidad visual que respeta y potencia esa expresión popular.",
       "Se desarrollaron una tipografía inspirada en los rótulos pintados a mano, una paleta de color derivada de los productos locales y un manual de aplicaciones para toldos, delantales y puntos de venta.",
@@ -88,7 +88,7 @@
     "docente": "Psc. Lucía Fernández, MSc.",
     "fecha": "2026-02-11",
     "destacado": false,
-    "portada": "assets/img/cover-sociales.svg",
+    "portada": "assets/img/descarga.png",
     "descripcion": [
       "El envejecimiento poblacional y la creciente digitalización de trámites en Ecuador dejan atrás a miles de adultos mayores. Este proyecto combina talleres presenciales con una aplicación de interfaz simplificada.",
       "Durante doce semanas se trabajó con un grupo de 35 personas mayores de 60 años en el uso de banca móvil, videollamadas y prevención de fraudes digitales.",
@@ -111,7 +111,7 @@
     "docente": "Ing. Roberto Naranjo, PhD.",
     "fecha": "2026-01-28",
     "destacado": true,
-    "portada": "assets/img/cover-sostenibilidad.svg",
+    "portada": "assets/img/IMG_9611.jpg",
     "descripcion": [
       "Quito genera más de 2.000 toneladas diarias de residuos, de las cuales cerca del 60% son orgánicos y terminan en rellenos sanitarios. Este proyecto propone módulos de compostaje pensados para espacios comunes de condominios.",
       "El diseño incorpora un sistema de aireación pasiva y un biofiltro de carbón activado que elimina los olores, permitiendo su instalación en terrazas y patios interiores.",
@@ -138,7 +138,7 @@
     "docente": "Dra. Mónica Salgado, PhD.",
     "fecha": "2025-12-09",
     "destacado": false,
-    "portada": "assets/img/cover-salud.svg",
+    "portada": "assets/img/SDD-294799449.jpg",
     "descripcion": [
       "El monitoreo constante de glucosa mediante pinchazos genera dolor y baja adherencia en pacientes con diabetes tipo 2. Este proyecto explora la saliva como fluido alternativo de medición.",
       "Se desarrolló un biosensor electroquímico de bajo costo capaz de correlacionar la concentración de glucosa salival con los niveles en sangre, validado frente a un glucómetro comercial.",
@@ -161,7 +161,7 @@
     "docente": "Ing. Diego Paredes, MSc.",
     "fecha": "2025-11-15",
     "destacado": false,
-    "portada": "assets/img/cover-tecnologia.svg",
+    "portada": "assets/img/images.jfif",
     "descripcion": [
       "Los ciclistas urbanos de Quito enfrentan rutas poco seguras debido a la falta de iluminación y tramos sin ciclovía. La aplicación combina datos abiertos del Municipio con reportes en tiempo real de la comunidad ciclista.",
       "El algoritmo de ruteo pondera variables como pendiente, iluminación nocturna y densidad de tráfico para sugerir el trayecto más seguro, no necesariamente el más corto.",
@@ -187,7 +187,7 @@
     "docente": "Arq. Xavier Montenegro, MSc.",
     "fecha": "2025-10-30",
     "destacado": false,
-    "portada": "assets/img/cover-ingenieria.svg",
+    "portada": "assets/img/images (1).jfif",
     "descripcion": [
       "Ecuador es un país de alta vulnerabilidad sísmica. Este proyecto propone una unidad de vivienda de emergencia construida con guadúa, un material local, renovable y de buen comportamiento estructural ante sismos.",
       "El sistema constructivo usa uniones prefabricadas que permiten el montaje sin mano de obra especializada, reduciendo el costo total a menos de 900 dólares por unidad.",
@@ -215,7 +215,7 @@
     "docente": "Sandre Elizabeth Lopez Vásquez",
     "fecha": "2026-06-07",
     "destacado": true,
-    "portada": "assets/img/cover-tecnologia.svg",
+    "portada": "assets/img/maxresdefault.jpg",
     "descripcion": [
       "Aprender a utilizar Microsoft Excel de forma sencilla para gestionar las finanzas de un pequeño negocio sin necesidad de conocimientos técnicos avanzados.",
       "Los participantes aprenderán a registrar precios, costos, ventas diarias e interpretar automáticamente indicadores como ingresos, costos, utilidad y ganancia neta mediante hojas de cálculo diseñadas para emprendedores.",
@@ -289,7 +289,7 @@
     "docente": "Sandre Elizabeth Lopez Vásquez",
     "fecha": "2026-06-21",
     "destacado": true,
-    "portada": "assets/img/cover-tecnologia.svg",
+    "portada": "assets/img/images (2).jfif",
     "descripcion": [
       "Proyecto de capacitación orientado a fortalecer las habilidades comerciales de emprendedores mediante técnicas modernas de ventas y atención al cliente.",
       "Se presentan estrategias de comunicación, negociación, manejo de objeciones y utilización de herramientas digitales como WhatsApp Business, Facebook, Instagram, Canva, Google Forms, Trello y Notion para mejorar la gestión comercial.",
@@ -332,7 +332,7 @@
     "docente": "Sandre Elizabeth Lopez Vásquez",
     "fecha": "2026-07-10",
     "destacado": true,
-    "portada": "assets/img/cover-tecnologia.svg",
+    "portada": "assets/img/ventaspublico.jpg",
     "descripcion": [
       "La capacitación explica la importancia de brindar una atención al cliente de calidad para fortalecer la confianza y fidelización en los pequeños negocios.",
       "Se analizan los diferentes tipos de clientes, sus características y las estrategias de comunicación adecuadas para ofrecer un servicio eficiente durante el proceso de venta.",
@@ -366,7 +366,7 @@
     "docente": "Sandre Elizabeth Lopez Vásquez",
     "fecha": "2026-06-14",
     "destacado": true,
-    "portada": "assets/img/cover-tecnologia.svg",
+    "portada": "assets/img/modelos-de-gestion.webp",
     "descripcion": [
       "La capacitación explica los fundamentos de la gestión administrativa, incluyendo planificación, organización, dirección y control como pilares para el crecimiento de un emprendimiento.",
       "También aborda el proceso de formalización legal en Ecuador mediante el RUC, el régimen RIMPE y las Sociedades por Acciones Simplificadas (SAS), destacando los beneficios de operar dentro del marco legal.",
@@ -404,7 +404,7 @@
     "docente": "Sandre Elizabeth Lopez Vásquez",
     "fecha": "2026-06-14",
     "destacado": true,
-    "portada": "assets/img/cover-tecnologia.svg",
+    "portada": "assets/img/image-8.png.webp",
     "descripcion": [
       "El proyecto ofrece una capacitación introductoria sobre gestión administrativa para pequeños negocios, proporcionando conocimientos esenciales que permitan mejorar la organización, planificación y control de las actividades empresariales.",
       "Durante el proceso de capacitación se explican conceptos fundamentales como la planificación de objetivos, la organización de recursos, la dirección de actividades y el control de resultados, resaltando la importancia de estas funciones para el crecimiento sostenible de un emprendimiento.",
@@ -455,7 +455,7 @@
     "docente": "Sandre Elizabeth Lopez Vásquez",
     "fecha": "2026-06-22",
     "destacado": true,
-    "portada": "assets/img/cover-tecnologia.svg",
+    "portada": "assets/img/maxresdefault (1).jpg",
     "descripcion": [
       "El proyecto consiste en una capacitación sobre contabilidad básica para emprendedores, enfocada en enseñar el registro adecuado de los ingresos y egresos del negocio para facilitar una mejor administración financiera.",
       "Durante la capacitación los participantes aprenden a identificar los movimientos económicos de su emprendimiento, comprender conceptos básicos de contabilidad y aplicar registros que permitan conocer la situación financiera del negocio de forma sencilla y organizada.",
@@ -497,7 +497,7 @@
     "docente": "MSc. Sandra López",
     "fecha": "2026-05-03",
     "destacado": false,
-    "portada": "assets/img/whatsapp-portada.jpg",
+    "portada": "assets/img/images.png",
     "descripcion": [
       "Este proyecto de capacitación está dirigido a emprendedores y pequeños negocios interesados en mejorar la comunicación con sus clientes mediante el uso de WhatsApp Business como herramienta comercial.",
       "Durante el proceso de aprendizaje se enseña a configurar el perfil empresarial, crear catálogos de productos, automatizar mensajes, organizar conversaciones y aplicar buenas prácticas para ofrecer una atención al cliente más eficiente.",
@@ -563,7 +563,7 @@
     "docente": "Ing. Sandra López",
     "fecha": "2026-05-29",
     "destacado": false,
-    "portada": "assets/img/ciber-portada.jpg",
+    "portada": "assets/img/CnsKICAgICJidWNrZXQiOiAiYXloeDR5czUtaW1hZ2VzIiwKICAgICJrZXkiOiAiMjAyMi0wNS9EaXNlbsyDbyBzaW4gdGnMgXR1bG8gKDI1KV8wLnBuZyIsCiAgICAiZWRpdHMiOiB7CiAgICAgICJyZXNpemUiOiB7CiAgICAgI.png",
     "descripcion": [
       "El proyecto consiste en una capacitación orientada a fortalecer los conocimientos de ciberseguridad en pequeños negocios y emprendimientos, promoviendo el uso seguro de las herramientas digitales.",
       "Durante el desarrollo del curso se analizan amenazas como phishing, malware, robo de información y fraudes digitales, además de enseñar medidas preventivas como contraseñas seguras, autenticación en dos pasos, copias de seguridad y protección de datos.",
@@ -635,7 +635,7 @@
     "docente": "Ing. Sandra Elizabeth López Vásquez",
     "fecha": "2026-05-29",
     "destacado": false,
-    "portada": "assets/img/cover-tecnologia.svg",
+    "portada": "assets/img/La-Inteligencia-Artificial-para-Negocios.jpg",
     "descripcion": [
       "El proyecto presenta una capacitación sobre herramientas de automatización para pequeños negocios utilizando n8n como plataforma principal para optimizar procesos empresariales mediante flujos de trabajo automatizados.",
       "Durante la capacitación se explica el funcionamiento de n8n, sus principales ventajas, aplicaciones y casos prácticos, permitiendo a los participantes conocer cómo integrar diferentes aplicaciones para automatizar tareas como el registro de clientes, envío de correos electrónicos, gestión de pedidos y actualización de bases de datos.",
@@ -686,7 +686,7 @@
     "docente": "Ing. Sandra Elizabeth López Vázquez",
     "fecha": "2026-05-29",
     "destacado": false,
-    "portada": "assets/img/marca-portada.jpg",
+    "portada": "assets/img/crear-logos.jpg",
     "descripcion": [
       "El proyecto presenta una capacitación sobre diseño de marca con inteligencia artificial, orientada a emprendedores y pequeños negocios que buscan fortalecer su identidad visual y mejorar su presencia digital.",
       "Durante el taller se explican los fundamentos del branding digital, los elementos que conforman una marca y el uso de herramientas de inteligencia artificial como Canva IA, Adobe Firefly, Looka y Designs.ai para generar propuestas visuales de forma rápida y profesional.",
