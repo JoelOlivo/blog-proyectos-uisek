@@ -87,6 +87,8 @@ JSON dinámicamente.
   `assets/docs/` (no incluidas). Coloca ahí los PDF reales y actualiza `archivo`
   en el JSON correspondiente.
 ## Integrantes
+```bash
 -Steven Gallegos
 -José Moya
 -Joel Olivo
+```
