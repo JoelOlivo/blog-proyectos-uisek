@@ -86,3 +86,7 @@ JSON dinámicamente.
 - Los enlaces de "Documentos descargables" apuntan a rutas de ejemplo dentro de
   `assets/docs/` (no incluidas). Coloca ahí los PDF reales y actualiza `archivo`
   en el JSON correspondiente.
+## Integrantes
+Steven Gallegos
+José Moya
+Joel Olivo
