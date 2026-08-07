@@ -15,11 +15,6 @@
       "Se diseñó una red de sensores de humedad y temperatura conectados a un microcontrolador ESP32, que envía datos en tiempo real a un panel web donde el agricultor puede monitorear el estado del suelo y activar el riego automático desde su celular.",
       "Las pruebas de campo, realizadas durante ocho semanas en un invernadero piloto, mostraron una reducción del 27% en el consumo de agua sin afectar el rendimiento del cultivo."
     ],
-    /*"galeria": [
-      { "src": "assets/img/gallery-01.svg", "alt": "Prototipo del sensor de humedad instalado en campo" },
-      { "src": "assets/img/gallery-03.svg", "alt": "Diagrama esquemático del circuito" },
-      { "src": "assets/img/gallery-04.svg", "alt": "Panel de monitoreo web" }
-    ],*/
     "videos": [
       { "titulo": "Demostración del sistema en campo", "url": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
     ],
@@ -49,10 +44,6 @@
       "El diseño permite ensamblar tramos de 4 metros sin soldadura ni maquinaria pesada, reduciendo el tiempo de instalación de semanas a menos de 48 horas.",
       "Se realizaron simulaciones estructurales en elementos finitos y un modelo a escala 1:10 fue sometido a pruebas de carga en el laboratorio de estructuras de la universidad."
     ],
-    /*"galeria": [
-      { "src": "assets/img/gallery-02.svg", "alt": "Modelo a escala del puente modular" },
-      { "src": "assets/img/gallery-03.svg", "alt": "Planos estructurales" }
-    ],*/
     "videos": [],
     "documentos": [
       { "nombre": "Memoria de cálculo estructural", "archivo": "assets/docs/memoria-puente.pdf", "tipo": "PDF", "tamano": "4.8 MB" }
@@ -76,10 +67,6 @@
       "Se desarrollaron una tipografía inspirada en los rótulos pintados a mano, una paleta de color derivada de los productos locales y un manual de aplicaciones para toldos, delantales y puntos de venta.",
       "El sistema fue validado con comerciantes del Mercado Central mediante entrevistas y prototipos de baja fidelidad."
     ],
-    /*"galeria": [
-      { "src": "assets/img/gallery-04.svg", "alt": "Sistema tipográfico aplicado a señalética" },
-      { "src": "assets/img/gallery-01.svg", "alt": "Prototipos de toldos" }
-    ],*/
     "videos": [
       { "titulo": "Proceso de investigación en campo", "url": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
     ],
@@ -107,10 +94,6 @@
       "Durante doce semanas se trabajó con un grupo de 35 personas mayores de 60 años en el uso de banca móvil, videollamadas y prevención de fraudes digitales.",
       "El 82% de los participantes reportó sentirse más seguro usando su celular al finalizar el programa, según la escala de autoeficacia digital aplicada."
     ],
-    /*"galeria": [
-      { "src": "assets/img/gallery-05.svg", "alt": "Taller con adultos mayores" },
-      { "src": "assets/img/gallery-04.svg", "alt": "Interfaz simplificada de la aplicación" }
-    ],*/
     "videos": [],
     "documentos": [
       { "nombre": "Resultados del estudio", "archivo": "assets/docs/estudio-alfabetizacion.pdf", "tipo": "PDF", "tamano": "2.4 MB" }
@@ -134,10 +117,6 @@
       "El diseño incorpora un sistema de aireación pasiva y un biofiltro de carbón activado que elimina los olores, permitiendo su instalación en terrazas y patios interiores.",
       "El piloto instalado en un condominio de 40 familias procesó 180 kg de residuos orgánicos en dos meses, generando abono para las áreas verdes del conjunto."
     ],
-    /*"galeria": [
-      { "src": "assets/img/gallery-02.svg", "alt": "Módulo de compostaje instalado" },
-      { "src": "assets/img/gallery-03.svg", "alt": "Corte técnico del sistema de aireación" }
-    ],*/
     "videos": [
       { "titulo": "Recorrido por el piloto instalado", "url": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
     ],
@@ -165,9 +144,6 @@
       "Se desarrolló un biosensor electroquímico de bajo costo capaz de correlacionar la concentración de glucosa salival con los niveles en sangre, validado frente a un glucómetro comercial.",
       "Los resultados preliminares muestran una correlación de 0.81 entre ambas mediciones, lo que abre la puerta a futuras validaciones clínicas a mayor escala."
     ],
-    /*"galeria": [
-      { "src": "assets/img/gallery-05.svg", "alt": "Prototipo del biosensor en laboratorio" }
-    ],*/
     "videos": [],
     "documentos": [
       { "nombre": "Paper preliminar", "archivo": "assets/docs/paper-biosensor.pdf", "tipo": "PDF", "tamano": "2.9 MB" }
@@ -191,10 +167,6 @@
       "El algoritmo de ruteo pondera variables como pendiente, iluminación nocturna y densidad de tráfico para sugerir el trayecto más seguro, no necesariamente el más corto.",
       "En su fase piloto, la app fue probada por 60 ciclistas del colectivo Biciacción durante un mes, registrando más de 400 rutas completadas."
     ],
-    /*"galeria": [
-      { "src": "assets/img/gallery-04.svg", "alt": "Interfaz de la aplicación móvil" },
-      { "src": "assets/img/gallery-01.svg", "alt": "Mapa de calor de rutas seguras" }
-    ],*/
     "videos": [
       { "titulo": "Recorrido de la app", "url": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
     ],
@@ -221,10 +193,6 @@
       "El sistema constructivo usa uniones prefabricadas que permiten el montaje sin mano de obra especializada, reduciendo el costo total a menos de 900 dólares por unidad.",
       "Un prototipo a escala real fue construido en el patio de la Facultad y sometido a pruebas de estabilidad ante viento y carga vertical."
     ],
-    /*"galeria": [
-      { "src": "assets/img/gallery-02.svg", "alt": "Prototipo de vivienda construido" },
-      { "src": "assets/img/gallery-03.svg", "alt": "Detalle constructivo de uniones" }
-    ],*/
     "videos": [],
     "documentos": [
       { "nombre": "Planos constructivos", "archivo": "assets/docs/planos-vivienda-bambu.pdf", "tipo": "PDF", "tamano": "5.1 MB" }
@@ -253,11 +221,6 @@
       "Los participantes aprenderán a registrar precios, costos, ventas diarias e interpretar automáticamente indicadores como ingresos, costos, utilidad y ganancia neta mediante hojas de cálculo diseñadas para emprendedores.",
       "Además, se promueve la correcta administración financiera enseñando a separar las finanzas personales de las del negocio, registrar gastos y tomar decisiones basadas en información organizada."
     ],
-    /* "galeria": [
-      { "src": "assets/img/gallery-01.svg", "alt": "img1" },
-      { "src": "assets/img/gallery-03.svg", "alt": "img2" },
-      { "src": "assets/img/gallery-04.svg", "alt": "img3" }
-    ], */
     "videos": [
       {
         "titulo": "Demostración del proyecto",
@@ -327,11 +290,6 @@
     "fecha": "2026-06-21",
     "destacado": true,
     "portada": "assets/img/cover-tecnologia.svg",
-    /* "galeria": [
-      { "src": "assets/img/gallery-01.svg", "alt": "img1" },
-      { "src": "assets/img/gallery-03.svg", "alt": "img2" },
-      { "src": "assets/img/gallery-04.svg", "alt": "img3" }
-    ], */
     "descripcion": [
       "Proyecto de capacitación orientado a fortalecer las habilidades comerciales de emprendedores mediante técnicas modernas de ventas y atención al cliente.",
       "Se presentan estrategias de comunicación, negociación, manejo de objeciones y utilización de herramientas digitales como WhatsApp Business, Facebook, Instagram, Canva, Google Forms, Trello y Notion para mejorar la gestión comercial.",
@@ -375,11 +333,6 @@
     "fecha": "2026-07-10",
     "destacado": true,
     "portada": "assets/img/cover-tecnologia.svg",
-    /* "galeria": [
-      { "src": "assets/img/gallery-01.svg", "alt": "img1" },
-      { "src": "assets/img/gallery-03.svg", "alt": "img2" },
-      { "src": "assets/img/gallery-04.svg", "alt": "img3" }
-    ], */
     "descripcion": [
       "La capacitación explica la importancia de brindar una atención al cliente de calidad para fortalecer la confianza y fidelización en los pequeños negocios.",
       "Se analizan los diferentes tipos de clientes, sus características y las estrategias de comunicación adecuadas para ofrecer un servicio eficiente durante el proceso de venta.",
@@ -419,11 +372,6 @@
       "También aborda el proceso de formalización legal en Ecuador mediante el RUC, el régimen RIMPE y las Sociedades por Acciones Simplificadas (SAS), destacando los beneficios de operar dentro del marco legal.",
       "Finalmente, se promueve el uso de herramientas digitales para optimizar la administración diaria y fortalecer la toma de decisiones en pequeños negocios."
     ],
-    /*"galeria": [
-    { "src": "assets/img/gallery-01.svg", "alt": "img1" },
-    { "src": "assets/img/gallery-03.svg", "alt": "img2" },
-    { "src": "assets/img/gallery-04.svg", "alt": "img3" }
-    ],*/
     "videos": [],
     "documentos": [],
     "enlaces": [
@@ -462,13 +410,6 @@
       "Durante el proceso de capacitación se explican conceptos fundamentales como la planificación de objetivos, la organización de recursos, la dirección de actividades y el control de resultados, resaltando la importancia de estas funciones para el crecimiento sostenible de un emprendimiento.",
       "Como complemento se incluyen recursos didácticos, actividades interactivas, evaluaciones y material de consulta que permiten reforzar el aprendizaje y facilitar la aplicación práctica de los conocimientos adquiridos."
     ],
-    /*
-    "galeria": [
-      { "src": "assets/img/gallery-01.svg", "alt": "img1" },
-      { "src": "assets/img/gallery-03.svg", "alt": "img2" },
-      { "src": "assets/img/gallery-04.svg", "alt": "img3" }
-    ],
-    */
     "videos": [],
     "documentos": [],
     "enlaces": [
@@ -520,13 +461,6 @@
       "Durante la capacitación los participantes aprenden a identificar los movimientos económicos de su emprendimiento, comprender conceptos básicos de contabilidad y aplicar registros que permitan conocer la situación financiera del negocio de forma sencilla y organizada.",
       "Como complemento se incorporan actividades interactivas, evaluaciones y lecturas de apoyo que fortalecen los conocimientos adquiridos y fomentan una adecuada toma de decisiones para el crecimiento sostenible del emprendimiento."
     ],
-    /*
-    "galeria": [
-      { "src": "assets/img/gallery-01.svg", "alt": "img1" },
-      { "src": "assets/img/gallery-03.svg", "alt": "img2" },
-      { "src": "assets/img/gallery-04.svg", "alt": "img3" }
-    ],
-    */
     "videos": [],
     "documentos": [],
     "enlaces": [
@@ -569,20 +503,6 @@
       "Durante el proceso de aprendizaje se enseña a configurar el perfil empresarial, crear catálogos de productos, automatizar mensajes, organizar conversaciones y aplicar buenas prácticas para ofrecer una atención al cliente más eficiente.",
       "La capacitación incluye actividades interactivas, evaluaciones y material de apoyo que permiten reforzar los conocimientos y facilitar la implementación de WhatsApp Business en situaciones reales."
     ],
-    /* "galeria": [
-      {
-        "src": "assets/img/whatsapp1.jpg",
-        "alt": "Configuración del perfil empresarial en WhatsApp Business"
-      },
-      {
-        "src": "assets/img/whatsapp2.jpg",
-        "alt": "Creación del catálogo de productos en WhatsApp Business"
-      },
-      {
-        "src": "assets/img/whatsapp3.jpg",
-        "alt": "Automatización de mensajes y atención al cliente"
-      }
-    ], */
     "videos": [
       {
         "titulo": "Video de la capacitación",
@@ -649,20 +569,6 @@
       "Durante el desarrollo del curso se analizan amenazas como phishing, malware, robo de información y fraudes digitales, además de enseñar medidas preventivas como contraseñas seguras, autenticación en dos pasos, copias de seguridad y protección de datos.",
       "El aprendizaje se complementa con actividades prácticas, formularios de diagnóstico, ejercicios interactivos y una evaluación final para consolidar una cultura de seguridad informática."
     ],
-    /* "galeria": [
-      {
-        "src": "assets/img/ciber1.jpg",
-        "alt": "Identificación de riesgos y amenazas en Internet"
-      },
-      {
-        "src": "assets/img/ciber2.jpg",
-        "alt": "Buenas prácticas de ciberseguridad y protección de datos"
-      },
-      {
-        "src": "assets/img/ciber3.jpg",
-        "alt": "Protección digital para pequeños negocios"
-      }
-    ], */
     "videos": [],
     "documentos": [
       {
@@ -735,20 +641,6 @@
       "Durante la capacitación se explica el funcionamiento de n8n, sus principales ventajas, aplicaciones y casos prácticos, permitiendo a los participantes conocer cómo integrar diferentes aplicaciones para automatizar tareas como el registro de clientes, envío de correos electrónicos, gestión de pedidos y actualización de bases de datos.",
       "Como complemento del aprendizaje se incluyen actividades interactivas, un test de evaluación y una lectura recomendada que fortalecen los conocimientos sobre automatización de procesos y transformación digital en pequeños negocios."
     ],
-    /* "galeria": [
-      {
-        "src": "assets/img/gallery-01.svg",
-        "alt": "Automatización de procesos"
-      },
-      {
-        "src": "assets/img/gallery-03.svg",
-        "alt": "Flujos de trabajo"
-      },
-      {
-        "src": "assets/img/gallery-04.svg",
-        "alt": "Integración de aplicaciones"
-      }
-    ], */
     "videos": [],
     "documentos": [
       {
@@ -800,20 +692,6 @@
       "Durante el taller se explican los fundamentos del branding digital, los elementos que conforman una marca y el uso de herramientas de inteligencia artificial como Canva IA, Adobe Firefly, Looka y Designs.ai para generar propuestas visuales de forma rápida y profesional.",
       "Como complemento del aprendizaje, el proyecto incorpora actividades interactivas, una evaluación del tema y una lectura recomendada que permiten reforzar los conocimientos sobre branding digital e innovación mediante inteligencia artificial."
     ],
-    /* "galeria": [
-      {
-        "src": "assets/img/marca1.jpg",
-        "alt": "Creación de identidad visual con inteligencia artificial"
-      },
-      {
-        "src": "assets/img/marca2.jpg",
-        "alt": "Diseño de logotipos y branding digital"
-      },
-      {
-        "src": "assets/img/marca3.jpg",
-        "alt": "Herramientas de inteligencia artificial para diseño gráfico"
-      }
-    ], */
     "videos": [],
     "documentos": [
       {
@@ -848,5 +726,5 @@
       }
     ],
     "tags": [ "Branding", "Inteligencia Artificial", "Diseño", "Canva IA", "Adobe Firefly", "Looka", "Emprendimiento" ]
-  },
+  }
 ]
