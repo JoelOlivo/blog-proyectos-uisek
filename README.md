@@ -15,6 +15,16 @@ python3 -m http.server 8080
 # abrir http://localhost:8080
 ```
 
+## Comandos adicionales
+- Inicio para Windows:
+```bash
+py -m http.server 8080
+```
+- Actualización del Proyecto:
+```bash
+git pull
+```
+
 ## Estructura de carpetas
 
 ```

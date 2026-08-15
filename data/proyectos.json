@@ -22,9 +22,9 @@
     ],
     "videos": [
       {
-        "titulo": "Demostración del proyecto",
+        "titulo": "Excel para pequeños negocios",
         "url": "assets/videos/excel-para-todos/Capacitación Excel Para Todos2.mp4",
-        "poster": "assets/img/gallery-01.svg"
+        "poster": "assets/img/Screenshot_1.png"
       }
     ],
     "documentos": [
@@ -94,7 +94,13 @@
       "Se presentan estrategias de comunicación, negociación, manejo de objeciones y utilización de herramientas digitales como WhatsApp Business, Facebook, Instagram, Canva, Google Forms, Trello y Notion para mejorar la gestión comercial.",
       "A través de casos prácticos y la aplicación del modelo AIDA, los participantes desarrollan competencias para mejorar la experiencia del cliente, incrementar las ventas y fortalecer la presencia digital de sus negocios."
     ],
-    "videos": [],
+    "videos": [
+      {
+        "titulo": "Técnicas de Ventas y Atención al Cliente",
+        "url": "assets/videos/ventas/Proyecto de vídeo.mp4",
+        "poster": "assets/img/Screenshot_2.png"
+      }
+    ],
     "documentos": [],
     "enlaces": [
       {
@@ -137,7 +143,13 @@
       "Se analizan los diferentes tipos de clientes, sus características y las estrategias de comunicación adecuadas para ofrecer un servicio eficiente durante el proceso de venta.",
       "Como complemento, el proyecto incorpora actividades interactivas, una evaluación y material de lectura que permiten reforzar los conocimientos adquiridos."
     ],
-    "videos": [],
+    "videos": [
+      {
+        "titulo": "ESQUEMA DE CAPACITACIÓN ASÍNCRONA",
+        "url": "assets/videos/ventas-y-atencion/VIDEO VENTAS Y ATENCION AL CLIENTE.mp4",
+        "poster": "assets/img/Screenshot_3.png"
+      }
+    ],
     "documentos": [],
     "enlaces": [
       {
@@ -171,7 +183,13 @@
       "También aborda el proceso de formalización legal en Ecuador mediante el RUC, el régimen RIMPE y las Sociedades por Acciones Simplificadas (SAS), destacando los beneficios de operar dentro del marco legal.",
       "Finalmente, se promueve el uso de herramientas digitales para optimizar la administración diaria y fortalecer la toma de decisiones en pequeños negocios."
     ],
-    "videos": [],
+    "videos": [
+      {
+        "titulo": "Gestión Administrativa para pequeños negocios y conformación legal",
+        "url": "assets/videos/gestion-para-negocios/GRUPO 4 VIDEO.mp4",
+        "poster": "assets/img/Screenshot_4.png"
+      }
+    ],
     "documentos": [],
     "enlaces": [
       {
@@ -209,7 +227,13 @@
       "Durante el proceso de capacitación se explican conceptos fundamentales como la planificación de objetivos, la organización de recursos, la dirección de actividades y el control de resultados, resaltando la importancia de estas funciones para el crecimiento sostenible de un emprendimiento.",
       "Como complemento se incluyen recursos didácticos, actividades interactivas, evaluaciones y material de consulta que permiten reforzar el aprendizaje y facilitar la aplicación práctica de los conocimientos adquiridos."
     ],
-    "videos": [],
+    "videos": [
+      {
+        "titulo": "Gestión Administrativa para pequeños negocios",
+        "url": "assets/videos/diseno-recursos-capacitacion/SERVICIO COMUNITARIO.mp4",
+        "poster": "assets/img/Screenshot_5.png"
+      }
+    ],
     "documentos": [],
     "enlaces": [
       {
@@ -260,7 +284,13 @@
       "Durante la capacitación los participantes aprenden a identificar los movimientos económicos de su emprendimiento, comprender conceptos básicos de contabilidad y aplicar registros que permitan conocer la situación financiera del negocio de forma sencilla y organizada.",
       "Como complemento se incorporan actividades interactivas, evaluaciones y lecturas de apoyo que fortalecen los conocimientos adquiridos y fomentan una adecuada toma de decisiones para el crecimiento sostenible del emprendimiento."
     ],
-    "videos": [],
+    "videos": [
+      {
+        "titulo": "Contabilidad Básica para Todos",
+        "url": "assets/videos/contabilidad-basica-todos/Video .mp4",
+        "poster": "assets/img/Screenshot_6.png"
+      }
+    ],
     "documentos": [],
     "enlaces": [
       {
