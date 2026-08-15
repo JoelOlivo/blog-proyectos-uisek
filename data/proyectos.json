@@ -87,7 +87,7 @@
     ],
     "docente": "Sandre Elizabeth Lopez Vásquez",
     "fecha": "2026-06-21",
-    "destacado": true,
+    "destacado": false,
     "portada": "assets/img/images (2).jfif",
     "descripcion": [
       "Proyecto de capacitación orientado a fortalecer las habilidades comerciales de emprendedores mediante técnicas modernas de ventas y atención al cliente.",
@@ -130,7 +130,7 @@
     ],
     "docente": "Sandre Elizabeth Lopez Vásquez",
     "fecha": "2026-07-10",
-    "destacado": true,
+    "destacado": false,
     "portada": "assets/img/ventaspublico.jpg",
     "descripcion": [
       "La capacitación explica la importancia de brindar una atención al cliente de calidad para fortalecer la confianza y fidelización en los pequeños negocios.",
@@ -164,7 +164,7 @@
     "autores": [ "Dominic Yano", "Ximena Ibarra", "Juan Delgado" ],
     "docente": "Sandre Elizabeth Lopez Vásquez",
     "fecha": "2026-06-14",
-    "destacado": true,
+    "destacado": false,
     "portada": "assets/img/modelos-de-gestion.webp",
     "descripcion": [
       "La capacitación explica los fundamentos de la gestión administrativa, incluyendo planificación, organización, dirección y control como pilares para el crecimiento de un emprendimiento.",
@@ -202,7 +202,7 @@
     "autores": [ "Gavilanes Nayelhi", "Gómez Sebastián", "Rueda Alicia" ],
     "docente": "Sandre Elizabeth Lopez Vásquez",
     "fecha": "2026-06-14",
-    "destacado": true,
+    "destacado": false,
     "portada": "assets/img/image-8.png.webp",
     "descripcion": [
       "El proyecto ofrece una capacitación introductoria sobre gestión administrativa para pequeños negocios, proporcionando conocimientos esenciales que permitan mejorar la organización, planificación y control de las actividades empresariales.",
@@ -361,7 +361,7 @@
     "autores": [ "Keila Alely Cerda Alvarado", "Michael Steve Chicaiza Ochoa", "Matías Jodoco García Andrade" ],
     "docente": "Ing. Sandra López",
     "fecha": "2026-05-29",
-    "destacado": false,
+    "destacado": true,
     "portada": "assets/img/CnsKICAgICJidWNrZXQiOiAiYXloeDR5czUtaW1hZ2VzIiwKICAgICJrZXkiOiAiMjAyMi0wNS9EaXNlbsyDbyBzaW4gdGnMgXR1bG8gKDI1KV8wLnBuZyIsCiAgICAiZWRpdHMiOiB7CiAgICAgICJyZXNpemUiOiB7CiAgICAgI.png",
     "descripcion": [
       "El proyecto consiste en una capacitación orientada a fortalecer los conocimientos de ciberseguridad en pequeños negocios y emprendimientos, promoviendo el uso seguro de las herramientas digitales.",
