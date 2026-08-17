@@ -335,7 +335,8 @@
     "videos": [
       {
         "titulo": "Video de la capacitación",
-        "url": "https://canva.link/hpyp0r30b881c4n"
+        "url": "assets/videos/gestion-whatsapp-business/Grabación de pantalla 2026-08-16 183137.mp4",
+        "poster": "assets/img/Screenshot_7.png"
       }
     ],
     "documentos": [
@@ -398,7 +399,13 @@
       "Durante el desarrollo del curso se analizan amenazas como phishing, malware, robo de información y fraudes digitales, además de enseñar medidas preventivas como contraseñas seguras, autenticación en dos pasos, copias de seguridad y protección de datos.",
       "El aprendizaje se complementa con actividades prácticas, formularios de diagnóstico, ejercicios interactivos y una evaluación final para consolidar una cultura de seguridad informática."
     ],
-    "videos": [],
+    "videos": [
+      {
+        "titulo": "CIBERSEGURIDAD PARA PEQUEÑOS NEGOCIOS",
+        "url": "assets/videos/ciberseguridad-para-pequenos-negocios/VIDEO_CAPACITACIÓN.mp4",
+        "poster": "assets/img/Screenshot_8.png"
+      }
+    ],
     "documentos": [
       {
         "nombre": "Presentación Ciberseguridad",
@@ -470,7 +477,13 @@
       "Durante la capacitación se explica el funcionamiento de n8n, sus principales ventajas, aplicaciones y casos prácticos, permitiendo a los participantes conocer cómo integrar diferentes aplicaciones para automatizar tareas como el registro de clientes, envío de correos electrónicos, gestión de pedidos y actualización de bases de datos.",
       "Como complemento del aprendizaje se incluyen actividades interactivas, un test de evaluación y una lectura recomendada que fortalecen los conocimientos sobre automatización de procesos y transformación digital en pequeños negocios."
     ],
-    "videos": [],
+    "videos": [
+      {
+        "titulo": "Automatización de procesos empresariales con n8n",
+        "url": "assets/videos/inteligencia-artificial-negocios-pequenos/Video Capacitación.mp4",
+        "poster": "assets/img/Screenshot_9.png"
+      }
+    ],
     "documentos": [
       {
         "nombre": "Presentación de la capacitación",
@@ -521,7 +534,13 @@
       "Durante el taller se explican los fundamentos del branding digital, los elementos que conforman una marca y el uso de herramientas de inteligencia artificial como Canva IA, Adobe Firefly, Looka y Designs.ai para generar propuestas visuales de forma rápida y profesional.",
       "Como complemento del aprendizaje, el proyecto incorpora actividades interactivas, una evaluación del tema y una lectura recomendada que permiten reforzar los conocimientos sobre branding digital e innovación mediante inteligencia artificial."
     ],
-    "videos": [],
+    "videos": [
+      {
+        "titulo": "Diseño de Marca con Inteligencia Artificial",
+        "url": "assets/videos/diseno-de-marca-con-ia/Video Grupos de capacitacion.mp4",
+        "poster": "assets/img/Screenshot_10.png"
+      }
+    ],
     "documentos": [
       {
         "nombre": "Presentación Diseño de Marca con IA",
@@ -578,7 +597,8 @@
   "videos": [
     {
       "titulo": "Capacitación WhatsApp Business",
-      "url": "assets/videos/whatsapp-business-samira/WHATSAPP BUSINESS.webm"
+      "url": "assets/videos/gestion-profesional-whatsapp-business-samira-pozo/WHATSSAP BUSINESS.mp4",
+      "poster": "assets/img/Screenshot_11.png"
     }
   ],
   "documentos": [
