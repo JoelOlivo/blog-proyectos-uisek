@@ -87,37 +87,41 @@ git lfs checkout
 
 ```text
 blog-proyectos-uisek/
-├── index.html                  Inicio (hero, destacados, categorías, últimas publicaciones)
-├── proyectos.html             Todos los proyectos (buscador + filtros por categoría)
-├── proyecto.html              Detalle de un proyecto (?id=slug-del-proyecto)
-├── acerca.html                Página institucional "Acerca de"
-├── contacto.html              Formulario de contacto
+│
+├── assets/
+│   ├── docs/                         Documentos y materiales descargables
+│   │   ├── excel-para-todos/
+│   │   ├── ventas/
+│   │   ├── ventas-y-atencion/
+│   │   ├── gestion-para-negocios/
+│   │   └── ...                       Carpetas de las demás capacitaciones
+│   │
+│   ├── icons/                        Logotipos e iconos institucionales
+│   ├── img/                          Portadas e imágenes de las capacitaciones
+│   └── videos/                       Videos de las capacitaciones (Git LFS)
 │
 ├── css/
-│   └── styles.css             Sistema de diseño completo (variables, componentes)
-│
-├── js/
-│   ├── utils.js               Carga de JSON + helpers de formato + generación de tarjetas
-│   ├── layout.js              Header sticky, menú móvil, buscador y footer
-│   ├── home.js                Lógica exclusiva de index.html
-│   ├── proyectos.js           Lógica exclusiva de proyectos.html (filtros/búsqueda)
-│   ├── proyecto-detalle.js    Lógica exclusiva de proyecto.html (render + lightbox)
-│   └── contacto.js            Validación del formulario
+│   └── styles.css                    Sistema de diseño completo
 │
 ├── data/
-│   ├── proyectos.json         Fuente de datos de todos los proyectos
-│   └── categorias.json        Categorías disponibles para filtros/menús
+│   ├── categorias.json               Categorías disponibles para filtros y menús
+│   └── proyectos.json                Fuente de datos de todas las capacitaciones
 │
-└── assets/
-    ├── icons/                 Logotipos e iconos institucionales
-    ├── img/                   Portadas e imágenes de las capacitaciones
-    ├── videos/                Videos de las capacitaciones (gestionados con Git LFS)
-    └── docs/                  Documentos y materiales descargables
-        ├── excel-para-todos/
-        ├── ventas/
-        ├── ventas-y-atencion/
-        ├── gestion-para-negocios/
-        └── ...
+├── js/
+│   ├── contacto.js                   Validación del formulario
+│   ├── home.js                       Lógica de index.html
+│   ├── layout.js                     Header, menú, buscador y footer
+│   ├── proyecto-detalle.js           Detalle de cada capacitación
+│   ├── proyectos.js                  Filtros y búsqueda de capacitaciones
+│   └── utils.js                      Carga de JSON y funciones auxiliares
+│
+├── .gitattributes                    Configuración de archivos gestionados con Git LFS
+├── acerca.html                       Página institucional "Acerca de"
+├── contacto.html                     Formulario de contacto
+├── index.html                        Página principal
+├── proyecto.html                     Detalle de una capacitación (?id=...)
+├── proyectos.html                    Listado de capacitaciones
+└── README.md                         Documentación del proyecto
 ```
 
 ## Cómo agregar un proyecto nuevo
